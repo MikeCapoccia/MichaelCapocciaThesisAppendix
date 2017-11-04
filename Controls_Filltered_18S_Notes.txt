@@ -1,0 +1,209 @@
+###############################################
+#### Controls filtered 18S Notes - Silva128 ###
+###############################################
+This pipeline is based off of a modified combination of the QIIME 454 and Processing 18S data tutorials - Modified version of 'Silva 128 notes.txt'
+http://qiime.org/tutorials/tutorial.html
+http://qiime.org/1.4.0/tutorials/processing_18S_data.html
+
+This is the pipeline used to process the unfiltered 18S data with the Silva 128 release on the 12th of July 2017 by Michael Capoccia
+Uses scripts from Silva_128_notes.txt and Controls_Removed_Notes.txt
+
+###############################################
+#######Making OTU tables for 18S datasets######
+###############################################
+
+#Open macqiime
+macqiime
+
+#Go to the location of the files
+cd DataAnalysis/Megan_6_No_Controls_or_Singletons
+
+#Pick OTUs against the Silva reference data set and discard any clusters that do not match
+pick_otus.py -i /Users/michaelcapoccia/bin/ForMichael/uclust_openref_picked_otus/prefilter_otus/prefiltered_everything.fna -m uclust_ref -C -r /Users/michaelcapoccia/bin/SILVA_128_QIIME_release/rep_set/rep_set_18S_only/97/97_otus_18S.fasta -o uclust_ref_picked_otus
+
+#-i is the input
+##-m is the OTU picking method uclus_ref was used
+###-C suppresses the creation of new clusters using seqs that don't match the reference
+####-r is reference sequences to search against
+#####-o is the output
+
+#OTU table with taxonomy strings from the reference dataset can be built directly
+make_otu_table.py -i uclust_ref_picked_otus/prefiltered_everything_otus.txt -t /Users/michaelcapoccia/bin/SILVA_128_QIIME_release/taxonomy/18S_only/97/majority_taxonomy_all_levels.txt -o otu_table_uclust.ref.txt
+
+#-i is the input
+##-t is the taxonomy assignment
+###-o is the output
+
+#Convert from BIOM format to tab-delinated
+biom convert -i otu_table_uclust.ref.txt -o otu_table_uclust_ref_convert.txt --header-key 'taxonomy' --to-tsv
+
+#-i is the input
+##-o is the output
+
+#Generate de novo OTUs
+pick_otus.py -i /Users/michaelcapoccia/bin/ForMichael/uclust_openref_picked_otus/prefilter_otus/prefiltered_everything.fna -o uclust_picked_otus
+
+#-i is the input
+##-o is the output
+
+#Make a representative sequence set for downstream analysis 
+pick_rep_set.py -i uclust_picked_otus/prefiltered_everything_otus.txt -f /Users/michaelcapoccia/bin/ForMichael/uclust_openref_picked_otus/prefilter_otus/prefiltered_everything.fna -o rep_set.fna
+
+#-i is the input
+##-f is the Silva reference set fasta file
+###-o is the output
+
+#Assign taxonomies to de novo OTUs that were generated
+assign_taxonomy.py -i rep_set.fna -o rdp_assigned_taxonomy -t /Users/michaelcapoccia/bin/SILVA_128_QIIME_release/taxonomy/18S_only/97/majority_taxonomy_all_levels.txt -r /Users/michaelcapoccia/bin/SILVA_128_QIIME_release/rep_set/rep_set_18S_only/97/97_otus_18S.fasta --rdp_max_memory 2000
+
+## Note I'm unsure about the use of majority_taxonomy_all_levels.txt as the Tutorial uses taxonomy_mapping/Silva_RDP_taxa_mapping.txt 
+#-i is the input
+##-o is the output
+###-t is the tab-delimited mapping file
+####-r is the reference sequences
+#####-rdp_max_memory is the maximum memory allocation 
+
+#An OTU table can be built which includes the taxonomic assignments
+make_otu_table.py -i uclust_picked_otus/prefiltered_everything_otus.txt -t rdp_assigned_taxonomy/rep_set_tax_assignments.txt -o otu_table.txt
+#-i is the input
+##-t is the taxonomy assignment
+###-o is the output
+
+#Convert the otu table into .biom format
+biom convert -i otu_table.txt -o otu_table.biom --table-type="OTU table" --to-json
+
+#-i is the input
+##-o is the output
+### --table-type="OTU table" is the type of table. In this case it is an OTU table
+####--to-json makes the output a JSON table
+
+###############################################
+######### Alignments and Tree Building#########
+###############################################
+
+#Create an alignment
+align_seqs.py -i rep_set.fna -t /Users/michaelcapoccia/bin/SILVA_128_QIIME_release/core_alignment/core_alignment_SILVA128.fna -o pynast_aligned
+
+#-i is the input
+##-t is the template if you are not using the default greengenes core alignment
+###-o is the output
+
+#Filter alignments
+filter_alignment.py -i pynast_aligned/rep_set_aligned.fasta -o pynast_aligned/ -e 0.10 -g 0.80
+
+#-i is the input
+##-o is the output
+###-e is indicates what percentage of the most variable postions will be filtered (e.g. the 10% most variable positions
+####-g indicates the minimum size of gaps that will be removed (e.g. positions greater than 80% gaps are removed)
+
+#Create a phylogenetic tree
+make_phylogeny.py -i pynast_aligned/rep_set_aligned.fasta -o rep_set.tre
+
+#-i is the input
+##-o is the output
+
+###############################################
+########## Validate the Mapping file ##########
+###############################################
+
+#Validate the mapping file
+validate_mapping_file.py -m ~/bin/ForMichael/map.txt -o mapping_output
+
+#-m is the mapping file
+##-o is the output
+
+###############################################
+############### Filtering Data ################
+###############################################
+
+#To filter out the taxa found in the EBCs and PCR Negative controls (remove contamination) 
+
+#Create an OTU table with just the blank control samples 
+
+filter_samples_from_otu_table.py -i otu_table.biom -o Controls_otu_table_blank_samples.biom -m mapping_output/map_corrected.txt -s "Group:Control"
+
+#-i is the input
+##-o is the output 
+###-m is the metadata mapping filepath 
+####-s is the valid states - choosing only the EBCs 
+
+# Filter out OTU ids that have less than 5 observations 
+
+filter_otus_from_otu_table.py -i Controls_otu_table_blank_samples.biom -o filtered_Controls_otu_table_blank_samples.biom -n 1
+
+## Setting -n 3 for the controls to remove ended up leaving controls in the sample hence these steps were redone (the updated code is written under the origanal)
+#-i is the input 
+##-o is the output
+### -n is the minimum total observation count of an otu for that otu retained 
+
+#Create a tab separated version of this OTU table:
+
+biom convert -i filtered_Controls_otu_table_blank_samples.biom -o otus_to_remove.txt --to-tsv
+
+#-i is the input 
+##-o is the output 
+###--to-tsv converts to tab-delinated format
+
+#Filter the OTU ids from the OTU table that are considered to be in the control blanks 
+
+filter_otus_from_otu_table.py -i otu_table.biom -o otu_table_minus_controls.biom -e otus_to_remove.txt
+
+#-i is the input 
+##-o is the output 
+###-e are the otus to exclude 
+
+# Remove any samples with less than 5 sequences:
+
+filter_samples_from_otu_table.py -i otu_table_minus_controls.biom -o final_otu_table_minus_controls.biom -n 5
+
+#-i is the input
+##-o is the output 
+###-n is the minimum total observation count of an otu
+
+#Look at a summary of this table
+
+biom summarize-table -i final_otu_table_minus_controls.biom -o summary_final_otu_table_minus_controls.txt
+
+#-i is the input 
+##-o is the output 
+
+###############################################
+** ############# Make an OTU Network ############# **
+###############################################
+
+#Make an OTU network
+make_otu_network.py -m mapping_output/map_corrected.txt -i final_otu_table_minus_controls.biom -o otus
+
+#-m is the validated mapping file
+##-i is the input
+###-o is the output
+
+###############################################
+#Summarize communities by taxonomic composition#
+###############################################
+
+#Generate taxonomy tables for the different taxonomic levels
+summarize_taxa_through_plots.py -i final_otu_table_minus_controls.biom -o taxa_summary_minus_controls -p summary_params.txt -m mapping_output/map_corrected.txt
+
+#-i is the input
+##-o is the output
+###-m is the mapping file
+####-p is the parameters file forcing taxonomic identification to level 14 (species level)
+
+###############################################
+#alpha diversity and generate alpha rarefaction plots#
+###############################################
+#done on the 10th of October 2017
+
+#Generate rarefiled OTU tables, compute measures of alpha diversity for each rarefied OTU table, collate the alpha diversity results and generate alpha rarefaction plots
+alpha_rarefaction.py -i final_otu_table_minus_controls.biom -m mapping_output/map_corrected.txt -o arare -p alpha_params.txt -t rep_set.tre
+
+#-i is the input .biom table
+##-m is the mapping file
+###-o is the output location
+####-p is the external parameters file (metrics changed to include: shannon, chao1, and observed species)
+#####-t is the representative set tree
+
+
+
+

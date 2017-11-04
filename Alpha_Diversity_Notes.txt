@@ -1,0 +1,43 @@
+###############################################
+### Alpha diversity (Unfiltered) - Silva128 ###
+###############################################
+This pipeline is based off of a modified combination of the QIIME 454 - Modified version of 'Silva 128 notes.txt'
+http://qiime.org/tutorials/tutorial.html
+
+
+This is the pipeline used to obtain Alpha diversity plots from the Unifiltered 18S data  on the 29th of June 2017
+For information on how the unfiltered_final_otu_table.biom was created see: Unfiltered_18S_Notes.txt
+
+###############################################
+############### Locating the data #############
+###############################################
+
+#Open macqiime
+macqiime
+
+#Go to the location of the data analysis
+cd DataAnalysis/128_Unfiltered/
+
+###############################################
+#### Alpha Diversity and rarefaction plots ####
+###############################################
+
+#Look at the default parameters of alpha_diversity.py
+alpha_diversity.py -h
+
+#-h pulls the help information for the command including information about other parameters
+
+#Create a file with different parameters than default
+echo "alpha_diversity:metrics shannon,chao1,observed_species,PD_whole_tree" > alpha_params.txt
+
+#Spaces were removed between the list of parameters in order for the file to be readable by QIIME
+##shannon was added since unlike chao1 and observed_species it is not a default value
+
+#Create alpha rarefaction plots
+alpha_rarefaction.py -i unfiltered_final_otu_table.biom -m mapping_output/map_corrected.txt -o arare_unfiltered -p alpha_params.txt -t rep_set.tre
+
+#-i is the input
+##-m is the mapping file
+###-o is the output
+####-p is the list of chosen parameters
+#####-t is the phylogenetic tree
