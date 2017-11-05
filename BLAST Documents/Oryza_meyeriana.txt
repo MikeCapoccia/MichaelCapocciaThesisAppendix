@@ -1,0 +1,88 @@
+Oryza meyeriana (East asian rice)
+
+AC198387.100925.102387	D_0__Eukaryota;D_1__Archaeplastida;D_2__Chloroplastida;D_3__Charophyta;D_4__Phragmoplastophyta;D_5__Streptophyta;D_6__Embryophyta;D_7__Tracheophyta;D_8__Spermatophyta;D_9__Magnoliophyta;D_10__Liliopsida;D_11__Poales;D_12__Oryza;D_13__Oryza meyeriana
+
+
+AC198387.100925.102387	12831LBKS_233	12831LBKS_1003	12831LBKS_1071	12831LBKS_1078	12831LBKS_1122	12831LBKS_1217	12831LBKS_1313	
+						12831LBKS_1330	12831LBKS_1608	12831LBKS_1682	12831LBKS_1808	12831LBKS_2021	12831LBKS_2267	12831LBKS_2844	
+						12831LBKS_2901	12831LBKS_2984	12831LBKS_3068	12831LBKS_3337	12831LBKS_3574	12831LBKS_3676	12831LBKS_3844	
+						12831LBKS_3972	12831LBKS_4158	12831LBKS_4397	12831LBKS_4417	12831LBKS_4945	12831LBKS_5085	12831LBKS_5513	
+						12831LBKS_5562	12831LBKS_5656	12831LBKS_5836	12831LBKS_6042	12831LBKS_6116	12831LBKS_6196	12831LBKS_6212	
+						12831LBKS_6262	12831LBKS_6477	12831LBKS_6506	12831LBKS_6630	12831LBKS_6854	12831LBKS_6877	12831LBKS_7374	
+						12831LBKS_7485	12831LBKS_7514	12831LBKS_7670	12831LBKS_7723	12831LBKS_7782	12831LBKS_7800	12831LBKS_7961	
+						12831LBKS_4562	12831LBKS_4563	12831LBKS_7427	12831LBKS_4720	12831LBKS_6563	12831LBKS_7058	12831LBKS_1518	
+						12831LBKS_5554	12831LBKS_7565	12831LBKS_377	12831LBKS_3880	12831LBKS_266
+
+
+>12831LBKS_1003
+GCTCCTACCGATTGAATGGTCCGGTGAAGTGTTCGGATCACGGCGACGGGGGCGGTTCGCCGCCCCCGACGTCACGAGAAGTCCATTGAACCTTATCATTTAGAGGAAGGAGAAGTCGTAACAAGGTTTCC
+
+			Description																										Max score	Total score	Query cover	E value	Ident	Accession
+				Oryza sativa (commonly known as Asian rice or just rice - found in South Asia, East Asia and South East Asia - brought to Europe in the 10th Century)
+CP018166.1|	Oryza sativa Indica Group cultivar Shuhui498 chromosome 10 sequence												231			3239	100%	2e-57	98%	CP018166.1
+CP018165.1|	Oryza sativa Indica Group cultivar Shuhui498 chromosome 9 sequence												231			1391	100%	2e-57	98%	CP018165.1
+				Zea mays (Maize, also known as corn, is a large grain plant from Mexico/ Central America)			
+XM_020546348.1|	PREDICTED: Zea mays uncharacterized LOC109943407 (LOC109943407), mRNA										231			231		100%	2e-57	98%	XM_020546348.1
+LC086814.1|	Oryza sativa Indica Group genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 26S rRNA, complete sequence, strain: N16	231			231		100%	2e-57	98%	LC086814.1
+				Oryza glumipatula (Common wild rice/ brownbeard rice - perennial wild rice of shallow water)
+KR364805.1|	Oryza glumipatula strain W2201 18S ribosomal RNA gene, partial sequence; and internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, 28S ribosomal RNA gene, and intergenic spacer region, complete sequence	231	231	100%	2e-57	98%	KR364805.1
+KR364804.1|	Oryza glumipatula strain W1187 18S ribosomal RNA gene, partial sequence; and internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, 28S ribosomal RNA gene, and intergenic spacer region, complete sequence	231	231	100%	2e-57	98%	KR364804.1
+				Oryza sativa Japonica (Sticky short-grained variety of rice that are usually cultivated in dry fields, in temperate East Asia, upland areas of Southeast Asia, and high elevations in South Asia)
+XM_015755623.1|	PREDICTED: Oryza sativa Japonica Group uncharacterized LOC107278832 (LOC107278832), mRNA					231			231		100%	2e-57	98%	XM_015755623.1
+				Sartidia (genus of Southern African and Madagascan plants in the grass family - Their natural habitats are warm, semi-arid savanna and dry forest at altitudes of 800–2,000m)	
+HG965136.1|	Sartidia sp. Morat 3609 18S rRNA gene, ITS1, 5.8S rRNA gene, ITS2 and 26S rRNA gene, specimen voucher PMorat 3609 (TAN)	231	231		100%	2e-57	98%	HG965136.1
+HG965135.1|	Sartidia perrieri 18S rRNA gene, ITS1, 5.8S rRNA gene, ITS2 and 26S rRNA gene, specimen voucher M. perrier de la Bathie 10751 (P)	231	231	100%	2e-57	98%	HG965135.1
+HG965134.1|	Sartidia dewinteri 18S rRNA gene, ITS1, 5.8S rRNA gene, ITS2 and 26S rRNA gene, specimen voucher SD Williamson J: SDW698	231	231	100%	2e-57	98%	HG965134.1
+AP014965.1|	Oryza sativa Japonica Group DNA, chromosome 9, cultivar: Nipponbare, complete sequence							231			1159	100%	2e-57	98%	AP014965.1
+CP012609.1|	Oryza sativa Indica Group cultivar RP Bio-226 chromosome 1 sequence												231			231		100%	2e-57	98%	CP012609.1
+				Oryza rufipogon (brownbeard rice/ wild rice/ red rice, member of the genus Oryza - native to East, South and Southeast Asia. It has a close evolutionary relation to Oryza sativa, the plant grown as a major rice food crop throughout the world)
+KM117266.1|	Oryza rufipogon 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S ribosomal RNA gene, complete sequence	231	231	100%	2e-57	98%	KM117266.1
+				Oryza barthii (Barth's rice/ wild rice/ African wild rice, grass in the rice genus Oryza - grows in sub-Saharan Africa, and is found in mopane or savanna woodland, savanna or fadama)
+KM117257.1|	Oryza barthii voucher WAB:0028903 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S ribosomal RNA gene, complete sequence	231	231	100%	2e-57	98%	KM117257.1
+KM117256.1|	Oryza barthii voucher WAB:0028976 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S ribosomal RNA gene, complete sequence	231	231	100%	2e-57	98%	KM117256.1
+				Oryza glaberrima (African rice, is one of the two domesticated rice species.[1] It was first domesticated and grown in West Africa - came to america in the 15th century?)
+KM117255.1|	Oryza glaberrima bio-material IRGC:103937 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S ribosomal RNA gene, complete sequence	231	231	100%	2e-57	98%	KM117255.1
+KM117254.1|	Oryza glaberrima bio-material IRGC:104574 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S ribosomal RNA gene, complete sequence	231	231	100%	2e-57	98%	KM117254.1
+KM117252.1|	Oryza barthii voucher WAB:0028987 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S ribosomal RNA gene, complete sequence	231	231	100%	2e-57	98%	KM117252.1
+				Oryza punctata (grass in the rice genus Oryza, also known as red rice, related to cultivated rice O. sativa, and native to tropical Africa, southern Africa, and Madagascar.[2] It is a weed that grows in rice fields)
+KM036294.1|	Oryza punctata 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S ribosomal RNA gene, complete sequence	231	231	100%	2e-57	98%	KM036294.1
+				Oryza longistaminata (longstamen rice/red rice is a perennial species of grass from the same genus as cultivated rice (O. sativa) - native to most of sub-Saharan Africa and Madagascar)
+KM036293.1|	Oryza longistaminata 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S ribosomal RNA gene, complete sequence	231	231	100%	2e-57	98%	KM036293.1
+
+
+>12831LBKS_3519
+GCTCCGACCGATTGAATGGTCCGGTGAAGTGTTCGGATCGCGGCGACAGGGGCGGTTCGCCGCCCCCGACGTCGCGAGAAGTCCATTGAACCTTATCATTTAGAGGAAGGAGAAGTCGTAACAAGGTTTCC
+
+Description																													Max score	Total score	Query cover	E value	Ident	Accession
+				Oryza sativa Japonica (Sticky short-grained variety of rice that are usually cultivated in dry fields, in temperate East Asia, upland areas of Southeast Asia, and high elevations in South Asia)
+AP014958.1|	Oryza sativa Japonica Group DNA, chromosome 2, cultivar: Nipponbare, complete sequence							237			237	100%	5e-59	99%	AP014958.1
+AP004778.3|	Oryza sativa Japonica Group genomic DNA, chromosome 2, PAC clone:P0459B01										237			237	100%	5e-59	99%	AP004778.3
+				Oryza sativa (commonly known as Asian rice or just rice - found in South Asia, East Asia and South East Asia - brought to Europe in the 10th Century)
+CP018166.1|	Oryza sativa Indica Group cultivar Shuhui498 chromosome 10 sequence												231			3245	100%	2e-57	98%	CP018166.1
+CP018165.1|	Oryza sativa Indica Group cultivar Shuhui498 chromosome 9 sequence												231			1391	100%	2e-57	98%	CP018165.1
+				Zea mays (Maize, also known as corn, is a large grain plant from Mexico/ Central America)			
+XM_020546348.1|	PREDICTED: Zea mays uncharacterized LOC109943407 (LOC109943407), mRNA	231	231	100%	2e-57	98%	XM_020546348.1
+LC086814.1|	Oryza sativa Indica Group genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 26S rRNA, complete sequence, strain: N16	231			231	100%	2e-57	98%	LC086814.1
+				Oryza glumipatula (Common wild rice/ brownbeard rice - perennial wild rice of shallow water)
+KR364805.1|	Oryza glumipatula strain W2201 18S ribosomal RNA gene, partial sequence; and internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, 28S ribosomal RNA gene, and intergenic spacer region, complete sequence	231	231	100%	2e-57	98%	KR364805.1
+KR364804.1|	Oryza glumipatula strain W1187 18S ribosomal RNA gene, partial sequence; and internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, 28S ribosomal RNA gene, and intergenic spacer region, complete sequence	231	231	100%	2e-57	98%	KR364804.1
+XM_015755623.1|	PREDICTED: Oryza sativa Japonica Group uncharacterized LOC107278832 (LOC107278832), mRNA					231			231	100%	2e-57	98%	XM_015755623.1
+				Sartidia (genus of Southern African and Madagascan plants in the grass family - Their natural habitats are warm, semi-arid savanna and dry forest at altitudes of 800–2,000m)	
+HG965136.1|	Sartidia sp. Morat 3609 18S rRNA gene, ITS1, 5.8S rRNA gene, ITS2 and 26S rRNA gene, specimen voucher PMorat 3609 (TAN)	231	231	100%	2e-57	98%	HG965136.1
+HG965135.1|	Sartidia perrieri 18S rRNA gene, ITS1, 5.8S rRNA gene, ITS2 and 26S rRNA gene, specimen voucher M. perrier de la Bathie 10751 (P)	231	231	100%	2e-57	98%	HG965135.1
+HG965134.1|	Sartidia dewinteri 18S rRNA gene, ITS1, 5.8S rRNA gene, ITS2 and 26S rRNA gene, specimen voucher SD Williamson J: SDW698	231	231	100%	2e-57	98%	HG965134.1
+AP014965.1|	Oryza sativa Japonica Group DNA, chromosome 9, cultivar: Nipponbare, complete sequence							231			1159	100%	2e-57	98%	AP014965.1
+CP012609.1|	Oryza sativa Indica Group cultivar RP Bio-226 chromosome 1 sequence												231			231	100%	2e-57	98%	CP012609.1
+				Oryza rufipogon (brownbeard rice/ wild rice/ red rice, member of the genus Oryza - native to East, South and Southeast Asia. It has a close evolutionary relation to Oryza sativa, the plant grown as a major rice food crop throughout the world)
+KM117266.1|	Oryza rufipogon 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S ribosomal RNA gene, complete sequence	231	231	100%	2e-57	98%	KM117266.1
+				Oryza barthii (Barth's rice/ wild rice/ African wild rice, grass in the rice genus Oryza - grows in sub-Saharan Africa, and is found in mopane or savanna woodland, savanna or fadama)
+KM117257.1|	Oryza barthii voucher WAB:0028903 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S ribosomal RNA gene, complete sequence	231	231	100%	2e-57	98%	KM117257.1
+KM117256.1|	Oryza barthii voucher WAB:0028976 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S ribosomal RNA gene, complete sequence	231	231	100%	2e-57	98%	KM117256.1
+				Oryza glaberrima (African rice, is one of the two domesticated rice species.[1] It was first domesticated and grown in West Africa - came to america in the 15th century?)
+KM117255.1|	Oryza glaberrima bio-material IRGC:103937 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S ribosomal RNA gene, complete sequence	231	231	100%	2e-57	98%	KM117255.1
+KM117254.1|	Oryza glaberrima bio-material IRGC:104574 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S ribosomal RNA gene, complete sequence	231	231	100%	2e-57	98%	KM117254.1
+KM117252.1|	Oryza barthii voucher WAB:0028987 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S ribosomal RNA gene, complete sequence	231	231	100%	2e-57	98%	KM117252.1
+						
+																						237			237	100%	5e-59	99%	LT593967.1
+				Brachiaria fragrans (Brachiaria, or signalgrass, is a genus of plants in the grass family native to tropical and subtropical regions of Asia, Africa, Australia, southern Europe, the Americas, and various islands. There are over 100 species.)
+LT593966.1|	Brachiaria fragrans genomic DNA containing ETS-18S-ITS1-5.8S-ITS2-26S region, specimen voucher H. Perrier de la Bathie 11217 (P)														

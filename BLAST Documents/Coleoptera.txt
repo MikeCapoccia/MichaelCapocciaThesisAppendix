@@ -1,0 +1,168 @@
+Coleoptera (Beetle)
+JN618998.1.2011	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_4__Eumetazoa; D_5__Bilateria; D_6__Arthropoda; D_7__Hexapoda; D_8__Insecta; D_9__Pterygota; D_10__Neoptera; D_11__Coleoptera; D_12__; D_13__; D_14__
+
+JN618998.1.2011	132232IR_9499		132232IR_5695		132232IR_6385
+				12014Dudka_21387	12014Dudka_22643	12014Dudka_10371	12014Dudka_26150	12014Dudka_5965		12014Dudka_26486	12014Dudka_12710	12014Dudka_13905
+				12014Dudka_12018	12014Dudka_18790	12014Dudka_21773	12014Dudka_13920	12014Dudka_32287	12014Dudka_25296	12014Dudka_17562	
+				12014Dudka_16137	12014Dudka_29636	12014Dudka_2840		12014Dudka_22626	12014Dudka_12399	12014Dudka_4174		12014Dudka_24287	12014Dudka_11140
+				12014Dudka_17456	12014Dudka_21385	
+
+>12014Dudka_21385	
+GCTACTACCGATTGAATGATTTAGTGAGGTCTTCGGACTGGTACGCGGTGATGTTTCGACATTACCGACGTCGCTGAGAAGATAACCAAACTTGATTATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCC
+
+			Description																				Max score	Total score	Query cover	E value	Ident	Accession
+				Miquihuana rhadiniformis (species of beetle in the family Carabidae, the only species in the genus Miquihuana - most likely found in Europe/ NA)
+KX091983.1|	Miquihuana rhadiniformis 18S ribosomal RNA gene, partial sequence						226			226	100%	1e-55	98%	KX091983.1
+				Pterostichus globosus (species of coleopteran insects belonging to the family Carabidae - found in Portugal)
+KP419252.1|	Pterostichus melanarius voucher BT0063 18S ribosomal RNA gene, partial sequence			226			226	100%	1e-55	98%	KP419252.1
+				Anthracus consputus (found across most of Europe except the extreme north and extreme south, east to Asia Minor, the Caucasus and western Siberia)
+JN619115.1|	Anthracus consputus voucher BMNH:832943 18S ribosomal RNA gene, partial sequence		226			226	100%	1e-55	98%	JN619115.1
+				Dromius quadrimaculatus (species of ground beetle native to the Palearctic and the Near East found in Europe)
+JN619002.1|	Dromius quadrimaculatus voucher BMNH:833937 18S ribosomal RNA gene, partial sequence	226			226	100%	1e-55	98%	JN619002.1
+				Anisodactylus binotatus (species of ground beetle native to Europe)
+JN619001.1|	Anisodactylus binotatus voucher BMNH:677415 18S ribosomal RNA gene, partial sequence	226			226	100%	1e-55	98%	JN619001.1
+				Ophonus laticollis (Ground beetle found in europe)
+JN619000.1|	Ophonus laticollis voucher BMNH:834272 18S ribosomal RNA gene, partial sequence			226			226	100%	1e-55	98%	JN619000.1
+				Stomis pumicatus (species of ground beetle native to Europe)
+JN618998.1|	Stomis pumicatus voucher BMNH:676130 18S ribosomal RNA gene, partial sequence			226			226	100%	1e-55	98%	JN618998.1
+				Syntomus truncatellus (European ground beetle)
+JN618997.1|	Syntomus truncatellus voucher BMNH:834274 18S ribosomal RNA gene, partial sequence		220			220	100%	5e-54	97%	JN618997.1
+				Dolichus halensis  (european beetle)
+FJ173130.1|	Dolichus halensis isolate 283Dhal 18S ribosomal RNA gene, partial sequence				220			220	97%		5e-54	98%	FJ173130.1
+				Platyderus varians (a beetle species from the carabidae family)
+FJ173122.1|	Platyderus varians isolate 245Pvar 18S ribosomal RNA gene, partial sequence				220			220	97%		5e-54	98%	FJ173122.1
+				Synuchus vivalis (Ground beetle)
+FJ173120.1|	Synuchus vivalis isolate 202Sniv 18S ribosomal RNA gene, partial sequence				220			220	97%		5e-54	98%	FJ173120.1
+				Bradycellus sharpi (European ground beetle)
+JN618999.1|	Bradycellus sharpi voucher BMNH:833420 18S ribosomal RNA gene, partial sequence			219			219	100%	2e-53	97%	JN618999.1
+				Pterostichus globosus (beetle)
+FJ173132.1|	Pterostichus globosus isolate 294Ster 18S ribosomal RNA gene, partial sequence			219			219	96%		2e-53	98%	FJ173132.1
+FJ173129.1|	Dolichus halensis isolate 282Dhal 18S ribosomal RNA gene, partial sequence				219			219	96%		2e-53	98%	FJ173129.1
+				Calathus mollis ( ground beetle from the Platyninae subfamily that can be found everywhere in Europe except for Albania, Andorra, Finland, Hungary, Italy, Luxembourg, Moldova, Monaco, Russia, San Marino, Slovakia, Switzerland, Vatican City, and various islands)
+FJ173117.1|	Calathus mollis isolate 120Cmol 18S ribosomal RNA gene, partial sequence				219			219	96%		2e-53	98%	FJ173117.1
+				Laemostenus complanatus (species of ground beetle native to Europe)
+FJ173126.1|	Laemostenus complanatus isolate 256Lcom 18S ribosomal RNA gene, partial sequence		217			217	96%		6e-53	98%	FJ173126.1
+				Stenolophus teutonus (beetle)
+FJ173124.1|	Stenolophus teutonus isolate 252Steu 18S ribosomal RNA gene, partial sequence			217			217	96%		6e-53	98%	FJ173124.1
+				Dicheirotrichus obsoletus (beetle)
+JN619311.1|	Dicheirotrichus obsoletus voucher BMNH:724065 18S ribosomal RNA gene, partial sequence	215			215	100%	2e-52	96%	JN619311.1
+				Dendroxena quadrimaculata (Four-spotted carion beetle)
+JN619303.1|	Dendroxena quadrimaculata voucher BMNH:834264 18S ribosomal RNA gene, partial sequence	215			215	100%	2e-52	96%	JN619303.1
+				Scybalicus oblongiusculus (beetle)
+JN619003.1|	Scybalicus oblongiusculus voucher BMNH:834265 18S ribosomal RNA gene, partial sequence	215			215	100%	2e-52	96%	JN619003.1
+
+
+>12014Dudka_18553
+GCTACTACCGATTGAATGATTTAGTGAGGTCTACGGACTGGTACGCGGTGATGTTTCGACATTACCGATGTCGCTGGAAAGATGACCAGACTTGATTATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCC
+
+			Description																				Max score	Total score	Query cover	E value	Ident	Accession
+				Miquihuana rhadiniformis (species of beetle in the family Carabidae, the only species in the genus Miquihuana - most likely found in Europe/ NA)
+KX091983.1|	Miquihuana rhadiniformis 18S ribosomal RNA gene, partial sequence						226			226	100%	1e-55	98%	KX091983.1
+				Pterostichus globosus (species of coleopteran insects belonging to the family Carabidae - found in Portugal)
+KP419252.1|	Pterostichus melanarius voucher BT0063 18S ribosomal RNA gene, partial sequence			226			226	100%	1e-55	98%	KP419252.1
+				Anthracus consputus (ound across most of Europe except the extreme north and extreme south, east to Asia Minor, the Caucasus and western Siberia)
+JN619115.1|	Anthracus consputus voucher BMNH:832943 18S ribosomal RNA gene, partial sequence		226			226	100%	1e-55	98%	JN619115.1
+				Dromius quadrimaculatus (species of ground beetle native to the Palearctic and the Near East found in Europe)
+JN619002.1|	Dromius quadrimaculatus voucher BMNH:833937 18S ribosomal RNA gene, partial sequence	226			226	100%	1e-55	98%	JN619002.1
+				Anisodactylus binotatus (species of ground beetle native to Europe)
+JN619001.1|	Anisodactylus binotatus voucher BMNH:677415 18S ribosomal RNA gene, partial sequence	226			226	100%	1e-55	98%	JN619001.1
+				Ophonus laticollis (Ground beetle found in europe)
+JN619000.1|	Ophonus laticollis voucher BMNH:834272 18S ribosomal RNA gene, partial sequence			226			226	100%	1e-55	98%	JN619000.1
+				Stomis pumicatus (species of ground beetle native to Europe)
+JN618998.1|	Stomis pumicatus voucher BMNH:676130 18S ribosomal RNA gene, partial sequence			226			226	100%	1e-55	98%	JN618998.1
+JN618997.1|	Syntomus truncatellus voucher BMNH:834274 18S ribosomal RNA gene, partial sequence		220			220	100%	5e-54	97%	JN618997.1
+FJ173130.1|	Dolichus halensis isolate 283Dhal 18S ribosomal RNA gene, partial sequence				220			220	97%	5e-54	98%	FJ173130.1
+				Platyderus varians (a beetle species from the carabidae family)
+FJ173122.1|	Platyderus varians isolate 245Pvar 18S ribosomal RNA gene, partial sequence				220			220	97%	5e-54	98%	FJ173122.1
+FJ173120.1|	Synuchus vivalis isolate 202Sniv 18S ribosomal RNA gene, partial sequence				220			220	97%	5e-54	98%	FJ173120.1
+JN618999.1|	Bradycellus sharpi voucher BMNH:833420 18S ribosomal RNA gene, partial sequence			219			219	100%	2e-53	97%	JN618999.1
+FJ173132.1|	Pterostichus globosus isolate 294Ster 18S ribosomal RNA gene, partial sequence			219			219	96%	2e-53	98%	FJ173132.1
+FJ173129.1|	Dolichus halensis isolate 282Dhal 18S ribosomal RNA gene, partial sequence				219			219	96%	2e-53	98%	FJ173129.1
+FJ173117.1|	Calathus mollis isolate 120Cmol 18S ribosomal RNA gene, partial sequence				219			219	96%	2e-53	98%	FJ173117.1
+				Laemostenus complanatus (species of ground beetle native to Europe)
+FJ173126.1|	Laemostenus complanatus isolate 256Lcom 18S ribosomal RNA gene, partial sequence		217			217	96%	6e-53	98%	FJ173126.1
+FJ173124.1|	Stenolophus teutonus isolate 252Steu 18S ribosomal RNA gene, partial sequence			217			217	96%	6e-53	98%	FJ173124.1
+JN619311.1|	Dicheirotrichus obsoletus voucher BMNH:724065 18S ribosomal RNA gene, partial sequence	215			215	100%	2e-52	96%	JN619311.1
+JN619303.1|	Dendroxena quadrimaculata voucher BMNH:834264 18S ribosomal RNA gene, partial sequence	215			215	100%	2e-52	96%	JN619303.1
+
+
+>132232IR_5695
+GCTACTACCGATTGAATGATTTAGTGAGGTCTTCGGACTGGTACGCGGTGATGTTTCGACATTACCGATGTCGCTGGGAAGATGACCAAACTTGTTTATTTAGAGGATGTAAAAG
+
+Geneious:
+>NW_012130091 Atta cephalotes unplaced genomic scaffold scaffold00027, whole ge nome shotgun sequence  Length = 4538920  E-value = 1.05e-22, Score = 64, Bitscore = 119.306, Identities = 98/115 (85%),  Positives = 98/115 (85%), Gaps = 0/115 (0%)
+>NW_013535375 Amyelois transitella strain UIUC subculture of SPIRL-1966 unplace d genomic scaffold, ASM118610v1 Atra_scaffold_0068, whole genome shotgun sequenc e  Length = 2478420  E-value = 3.80e-17, Score = 54, Bitscore = 100.839, Identities = 95/115 (82%),  Positives = 95/115 (82%), Gaps = 2/115 (1%)
+
+			Description																			Max score Total score	Query cover	E value	Ident	Accession
+				Miquihuana rhadiniformis (species of beetle in the family Carabidae, the only species in the genus Miquihuana - most likely found in Europe/ NA)
+KX091983.1|	Miquihuana rhadiniformis 18S ribosomal RNA gene, partial sequence					202			202	100%	1e-48	98%	KX091983.1
+				Pterostichus melanarius (species of ground beetle native to Europe)
+KP419252.1|	Pterostichus melanarius voucher BT0063 18S ribosomal RNA gene, partial sequence		202			202	100%	1e-48	98%	KP419252.1
+				Anthracus consputus (ound across most of Europe except the extreme north and extreme south, east to Asia Minor, the Caucasus and western Siberia)
+JN619115.1|	Anthracus consputus voucher BMNH:832943 18S ribosomal RNA gene, partial sequence	202			202	100%	1e-48	98%	JN619115.1
+				Dromius quadrimaculatus (species of ground beetle native to the Palearctic and the Near East found in Europe)
+JN619002.1|	Dromius quadrimaculatus voucher BMNH:833937 18S ribosomal RNA gene, partial sequence	202		202	100%	1e-48	98%	JN619002.1
+				Anisodactylus binotatus (species of ground beetle native to Europe)
+JN619001.1|	Anisodactylus binotatus voucher BMNH:677415 18S ribosomal RNA gene, partial sequence	202		202	100%	1e-48	98%	JN619001.1
+				Ophonus laticollis (Ground beetle found in europe)
+JN619000.1|	Ophonus laticollis voucher BMNH:834272 18S ribosomal RNA gene, partial sequence		202			202	100%	1e-48	98%	JN619000.1
+				Stomis pumicatus (species of ground beetle native to Europe)
+JN618998.1|	Stomis pumicatus voucher BMNH:676130 18S ribosomal RNA gene, partial sequence		202			202	100%	1e-48	98%	JN618998.1
+				Pterostichus globosus (species of coleopteran insects belonging to the family Carabidae - found in Portugal)
+FJ173132.1|	Pterostichus globosus isolate 294Ster 18S ribosomal RNA gene, partial sequence		202			202	100%	1e-48	98%	FJ173132.1
+				Pristosia aeneola (beetle species from the carabidae family)
+FJ173131.1|	Pristosia aeneola isolate 284Paen 18S ribosomal RNA gene, partial sequence			202			202	100%	1e-48	98%	FJ173131.1
+				Dolichus halensis (variable slender runner  is a beetle species from the carabidae family)
+FJ173130.1|	Dolichus halensis isolate 283Dhal 18S ribosomal RNA gene, partial sequence			202			202	100%	1e-48	98%	FJ173130.1
+FJ173129.1|	Dolichus halensis isolate 282Dhal 18S ribosomal RNA gene, partial sequence			202			202	100%	1e-48	98%	FJ173129.1
+				Laemostenus complanatus (species of ground beetle native to Europe)
+FJ173126.1|	Laemostenus complanatus isolate 256Lcom 18S ribosomal RNA gene, partial sequence	202			202	100%	1e-48	98%	FJ173126.1
+				Stenolophus teutonus (European ground beetle)
+FJ173124.1|	Stenolophus teutonus isolate 252Steu 18S ribosomal RNA gene, partial sequence		202			202	100%	1e-48	98%	FJ173124.1
+				Platyderus varians (a beetle species from the carabidae family)
+FJ173122.1|	Platyderus varians isolate 245Pvar 18S ribosomal RNA gene, partial sequence			202			202	100%	1e-48	98%	FJ173122.1
+FJ173121.1|	Harpalus affinis isolate 233Haff 18S ribosomal RNA gene, partial sequence			202			202	100%	1e-48	98%	FJ173121.1
+FJ173120.1|	Synuchus vivalis isolate 202Sniv 18S ribosomal RNA gene, partial sequence			202			202	100%	1e-48	98%	FJ173120.1
+FJ173117.1|	Calathus mollis isolate 120Cmol 18S ribosomal RNA gene, partial sequence			202			202	100%	1e-48	98%	FJ173117.1
+DQ157759.1|	Desera australis isolate 0611 from Kenya 18S ribosomal RNA gene, partial sequence	202			202	100%	1e-48	98%	DQ157759.1
+JX560858.1|	Abax parallelepipedus voucher hs1145 18S small subunit ribosomal RNA gene, partial sequence	196	196	97%	7e-47	98%	JX560858.1
+JX560857.1|	Trigonognatha sp. LO-2012 voucher hs1132 18S small subunit ribosomal RNA gene, partial sequence	196	196	97%	7e-47	98%	JX560857.1
+
+>132232IR_6385	
+GCTACTACCGATTGAATGATTTAATGAGGTCTTCGGACTGGTACGCGGTGATGTTCCGACATTACCGATGTCGCTGGGAAGATGACCAAACTTGCTTATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCC
+
+			Description																				Max score	Total score	Query cover	E value	Ident	Accession
+				Miquihuana rhadiniformis (species of beetle in the family Carabidae, the only species in the genus Miquihuana - most likely found in Europe/ NA)
+KX091983.1|	Miquihuana rhadiniformis 18S ribosomal RNA gene, partial sequence						226			226	100%	1e-55	98%	KX091983.1
+				Pterostichus globosus (species of coleopteran insects belonging to the family Carabidae - found in Portugal)
+KP419252.1|	Pterostichus melanarius voucher BT0063 18S ribosomal RNA gene, partial sequence			226			226	100%	1e-55	98%	KP419252.1
+				Dicheirotrichus obsoletus (European ground beetle)
+JN619311.1|	Dicheirotrichus obsoletus voucher BMNH:724065 18S ribosomal RNA gene, partial sequence	226			226	100%	1e-55	98%	JN619311.1
+				Anthracus consputus (ound across most of Europe except the extreme north and extreme south, east to Asia Minor, the Caucasus and western Siberia)
+JN619115.1|	Anthracus consputus voucher BMNH:832943 18S ribosomal RNA gene, partial sequence		226			226	100%	1e-55	98%	JN619115.1
+				Dromius quadrimaculatus (species of ground beetle native to the Palearctic and the Near East found in Europe)
+JN619002.1|	Dromius quadrimaculatus voucher BMNH:833937 18S ribosomal RNA gene, partial sequence	226			226	100%	1e-55	98%	JN619002.1
+				Anisodactylus binotatus (species of ground beetle native to Europe)
+JN619001.1|	Anisodactylus binotatus voucher BMNH:677415 18S ribosomal RNA gene, partial sequence	226			226	100%	1e-55	98%	JN619001.1
+				Ophonus laticollis (Ground beetle found in europe)
+JN619000.1|	Ophonus laticollis voucher BMNH:834272 18S ribosomal RNA gene, partial sequence			226			226	100%	1e-55	98%	JN619000.1
+				Stomis pumicatus (species of ground beetle native to Europe)
+JN618998.1|	Stomis pumicatus voucher BMNH:676130 18S ribosomal RNA gene, partial sequence			226			226	100%	1e-55	98%	JN618998.1
+				Syntomus truncatellus (Beetle found in the UK)
+JN618997.1|	Syntomus truncatellus voucher BMNH:834274 18S ribosomal RNA gene, partial sequence		220			220	100%	5e-54	97%	JN618997.1
+FJ173130.1|	Dolichus halensis isolate 283Dhal 18S ribosomal RNA gene, partial sequence				220			220	97%	5e-54	98%	FJ173130.1
+FJ173122.1|	Platyderus varians isolate 245Pvar 18S ribosomal RNA gene, partial sequence				220			220	97%	5e-54	98%	FJ173122.1
+FJ173120.1|	Synuchus vivalis isolate 202Sniv 18S ribosomal RNA gene, partial sequence				220			220	97%	5e-54	98%	FJ173120.1
+JN618999.1|	Bradycellus sharpi voucher BMNH:833420 18S ribosomal RNA gene, partial sequence			219			219	100%	2e-53	97%	JN618999.1
+FJ173132.1|	Pterostichus globosus isolate 294Ster 18S ribosomal RNA gene, partial sequence			219			219	96%	2e-53	98%	FJ173132.1
+				Dolichus halensis (variable slender runner  is a beetle species from the carabidae family)
+FJ173129.1|	Dolichus halensis isolate 282Dhal 18S ribosomal RNA gene, partial sequence				219			219	96%	2e-53	98%	FJ173129.1
+FJ173117.1|	Calathus mollis isolate 120Cmol 18S ribosomal RNA gene, partial sequence				219			219	96%	2e-53	98%	FJ173117.1
+				Laemostenus complanatus (species of ground beetle native to Europe)
+FJ173126.1|	Laemostenus complanatus isolate 256Lcom 18S ribosomal RNA gene, partial sequence		217			217	96%	6e-53	98%	FJ173126.1
+				Stenolophus teutonus (European ground beetle)
+FJ173124.1|	Stenolophus teutonus isolate 252Steu 18S ribosomal RNA gene, partial sequence			217			217	96%	6e-53	98%	FJ173124.1
+KX091982.1|	Pseudamara arenaria 18S ribosomal RNA gene, partial sequence							215			215	100%	2e-52	96%	KX091982.1
+KU233695.1|	Bembidarenas reicheellum voucher OSAC:DRMaddison DNA3983 18S small subunit ribosomal RNA gene, partial sequence	215	215	100%	2e-52	96%	KU233695.1
+
+

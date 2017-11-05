@@ -1,0 +1,70 @@
+Diptera (flies)
+JQ801604.1.1907	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_4__Eumetazoa; D_5__Bilateria; D_6__Arthropoda; D_7__Hexapoda; D_8__Insecta; D_9__Pterygota; D_10__Neoptera; D_11__Diptera; D_12__; D_13__; D_14__
+
+JQ801604.1.1907	132236IR_4936	132236IR_6842	132236IR_7467	132236IR_8206	132236IR_9756	132236IR_15198	132236IR_16859
+				132236IR_10423	132236IR_1237	132236IR_1141	132236IR_207	132236IR_6008
+
+
+>132236IR_207	
+GCTACTACCGATTGAATTATTTAGTGAGGTCTCCGGACGTGATCACTGTAACGCCTTGTGTGTTACGGTTGTTTCGCAAAAGTTGACCGAACTTGATTATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCC
+
+
+			Description																			Max score	Total score	Query cover	E value	Ident	Accession
+				Hypoderma tarandi (reindeer warble fly and caribou bot fly, is a species of warble fly that is parasitic on reindeer.)
+KT780435.1|	Hypoderma tarandi 18S ribosomal RNA gene, partial sequence							239			239	100%	1e-59	99%	KT780435.1
+				Lucilia sericata (green bottle fly is a blow fly found in most areas of the world, and the most well-known of the numerous green bottle fly species.)
+KR133393.1|	Lucilia sericata 18S ribosomal RNA gene, complete sequence							239			239	100%	1e-59	99%	KR133393.1
+				Delia radicum (cabbage fly, cabbage root fly, root fly or turnip fly, is a pest of crops. The larvae of the cabbage root fly are sometimes known as the cabbage maggot or root maggot.)
+KC177311.1|	Delia radicum 18S ribosomal RNA gene, partial sequence								239			239	100%	1e-59	99%	KC177311.1
+				Cochliomyia macellaria (Secondary screwworm)
+KC177310.1|	Cochliomyia macellaria 18S ribosomal RNA gene, partial sequence						239			239	100%	1e-59	99%	KC177310.1
+FJ790784.1|	Lucilia porphyrina isolate 1 18S ribosomal RNA gene, and internal transcribed spacer 1, region	239	239	100%	1e-59	99%	FJ790784.1
+				Hemipyrellia ligurriens (Species of Blow fly)
+FJ790782.1|	Hemipyrellia ligurriens isolate 1 18S ribosomal RNA gene, and internal transcribed spacer 1, region	239	239	100%	1e-59	99%	FJ790782.1
+				Chrysomya megacephala (oriental latrine fly, is a member of the family Calliphoridae. It is a warm-weather fly with a greenish-blue metallic box-like body)
+FJ790781.1|	Chrysomya megacephala isolate 3 18S ribosomal RNA gene, and internal transcribed spacer 1, region	239	239	100%	1e-59	99%	FJ790781.1
+FJ790780.1|	Chrysomya megacephala isolate 2 18S ribosomal RNA gene, and internal transcribed spacer 1, region	239	239	100%	1e-59	99%	FJ790780.1
+FJ790779.1|	Chrysomya megacephala isolate 1 18S ribosomal RNA gene, and internal transcribed spacer 1, region	239	239	100%	1e-59	99%	FJ790779.1
+				Hermetia illucens (black soldier fly, is a common and widespread fly of the family Stratiomyidae. The larvae and adults are considered neither pests nor vectors)
+GQ465779.1|	Hermetia illucens 18S ribosomal RNA gene, partial sequence							239			239	100%	1e-59	99%	GQ465779.1
+				Haematobia irritans (horn fly, is a small fly described by Linnaeus in 1758. It is of the genus Haematobia which is the European genus of bloodsucking flies.)
+EU179518.1|	Haematobia irritans 18S ribosomal RNA gene and internal transcribed spacer 1, partial sequence	239	239	100%	1e-59	99%	EU179518.1
+				Drosophila melanogaster (common fruit fly or vinegar fly)
+NR_133559.1|	Drosophila melanogaster 18S ribosomal RNA (18SrRNA:CR45841), rRNA	233			233	100%	7e-58	98%	NR_133559.1
+NR_133558.1|	Drosophila melanogaster pre-ribosomal RNA (pre-rRNA:CR45847), miRNA	233			233	100%	7e-58	98%	NR_133558.1
+NR_133555.1|	Drosophila melanogaster 18S ribosomal RNA (18SrRNA:CR45838), rRNA	233			233	100%	7e-58	98%	NR_133555.1
+NR_133554.1|	Drosophila melanogaster pre-ribosomal RNA (pre-rRNA:CR45846), miRNA	233			233	100%	7e-58	98%	NR_133554.1
+NR_133550.1|	Drosophila melanogaster 18S ribosomal RNA (18SrRNA:CR41548), rRNA	233			233	100%	7e-58	98%	NR_133550.1
+NR_133549.1|	Drosophila melanogaster pre-ribosomal RNA (pre-rRNA:CR45845), miRNA	233			233	100%	7e-58	98%	NR_133549.1
+CP007120.1|	Drosophila melanogaster chromosome X; Y rDNA sequence								233			701	100%	7e-58	98%	CP007120.1
+DS485228.1|	Drosophila melanogaster chromosome X; Y 211000022279555 sequence					233			233	100%	7e-58	98%	DS485228.1
+AE014298.5|	Drosophila melanogaster chromosome X												233			879	100%	7e-58	98%	AE014298.5
+
+
+>132236IR_6008
+GCTACTACCGATTGAATTATTTAGTGAGGTCTCCGGACGTGATCACTGTAACGCCTTGTGTGTTATGGTTGTTTCGCAAAAGTTGACCGAACTTGATTATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCC
+
+			Description																Max score	Total score	Query cover	E value	Ident	Accession
+KT780435.1|	Hypoderma tarandi 18S ribosomal RNA gene, partial sequence				233	233	100%	7e-58	98%	KT780435.1
+KR133393.1|	Lucilia sericata 18S ribosomal RNA gene, complete sequence				233	233	100%	7e-58	98%	KR133393.1
+KC177311.1|	Delia radicum 18S ribosomal RNA gene, partial sequence					233	233	100%	7e-58	98%	KC177311.1
+KC177310.1|	Cochliomyia macellaria 18S ribosomal RNA gene, partial sequence			233	233	100%	7e-58	98%	KC177310.1
+KC177308.1|	Spelobia bifrons 18S ribosomal RNA gene, partial sequence				233	233	100%	7e-58	98%	KC177308.1
+KC177291.1|	Oreogeton scopifer 18S ribosomal RNA gene, partial sequence				233	233	100%	7e-58	98%	KC177291.1
+FJ790784.1|	Lucilia porphyrina isolate 1 18S ribosomal RNA gene, and internal transcribed spacer 1, region	233	233	100%	7e-58	98%	FJ790784.1
+FJ790782.1|	Hemipyrellia ligurriens isolate 1 18S ribosomal RNA gene, and internal transcribed spacer 1, region	233	233	100%	7e-58	98%	FJ790782.1
+FJ790781.1|	Chrysomya megacephala isolate 3 18S ribosomal RNA gene, and internal transcribed spacer 1, region	233	233	100%	7e-58	98%	FJ790781.1
+FJ790780.1|	Chrysomya megacephala isolate 2 18S ribosomal RNA gene, and internal transcribed spacer 1, region	233	233	100%	7e-58	98%	FJ790780.1
+FJ790779.1|	Chrysomya megacephala isolate 1 18S ribosomal RNA gene, and internal transcribed spacer 1, region	233	233	100%	7e-58	98%	FJ790779.1
+GQ465779.1|	Hermetia illucens 18S ribosomal RNA gene, partial sequence				233	233	100%	7e-58	98%	GQ465779.1
+EU179518.1|	Haematobia irritans 18S ribosomal RNA gene and internal transcribed spacer 1, partial sequence	233	233	100%	7e-58	98%	EU179518.1
+NR_133559.1|	Drosophila melanogaster 18S ribosomal RNA (18SrRNA:CR45841), rRNA	228	228	100%	3e-56	98%	NR_133559.1
+NR_133558.1|	Drosophila melanogaster pre-ribosomal RNA (pre-rRNA:CR45847), miRNA	228	228	100%	3e-56	98%	NR_133558.1
+NR_133555.1|	Drosophila melanogaster 18S ribosomal RNA (18SrRNA:CR45838), rRNA	228	228	100%	3e-56	98%	NR_133555.1
+NR_133554.1|	Drosophila melanogaster pre-ribosomal RNA (pre-rRNA:CR45846), miRNA	228	228	100%	3e-56	98%	NR_133554.1
+NR_133550.1|	Drosophila melanogaster 18S ribosomal RNA (18SrRNA:CR41548), rRNA	228	228	100%	3e-56	98%	NR_133550.1
+NR_133549.1|	Drosophila melanogaster pre-ribosomal RNA (pre-rRNA:CR45845), miRNA	228	228	100%	3e-56	98%	NR_133549.1
+CP007120.1|	Drosophila melanogaster chromosome X; Y rDNA sequence					228	684	100%	3e-56	98%	CP007120.1
+DS485228.1|	Drosophila melanogaster chromosome X; Y 211000022279555 sequence		228	228	100%	3e-56	98%	DS485228.1
+AE014298.5|	Drosophila melanogaster chromosome X									228	858	100%	3e-56	98%	AE014298.5
+

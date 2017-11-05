@@ -1,0 +1,37 @@
+Phytophthora (Oomycete - plant damaging water mold)
+
+LHTW01001300.10087.11478	D_0__Eukaryota; D_1__SAR; D_2__Stramenopiles; D_3__Peronosporomycetes; D_4__Phytophthora; Ambiguous_taxa; D_6__; D_7__; D_8__; D_9__; D_10__; D_11__; D_12__; D_13__; D_14__
+
+LHTW01001300.10087.11478	8812jewbury_4107	8812jewbury_7639	8812jewbury_8283	8812jewbury_33732	8812jewbury_47588	8812jewbury_11149
+
+>8812jewbury_33732
+GCACCTACCGATTGAATGACTCGGTGAAAAATTGGGACCGTGAGTCCGCTTGCTTCATTGCGAGTGGATTGATGGAAACTTTTTTAAACCTCGCCATTTAGAGGAAGGTGAAGTCGTAACAAGGTTTCC
+
+			Description	
+				Peronospora manshurica (Plant pathogen. It is a widespread disease on the leaves of soybeans and other crop plants. The fungi is commonly referred to as downy mildew, "leafspot", or "leaf-spot".)																																																								Max score	Total score	Query cover	E value	Ident	Accession
+AY211019.1|	Peronospora manshurica specimen-voucher SMK 17669 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence									239			239			100%		1e-59	100%	AY211019.1
+				
+KT285843.1|	Peronospora agrimoniae isolate PA-B 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence	233			233			100%		6e-58	99%	KT285843.1
+KT285842.1|	Peronospora agrimoniae isolate PA-A 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence	233			233			100%		6e-58	99%	KT285842.1
+				Peronospora mesembryanthemi (Same as manshurica except that it specifically effects mesembryanthemi plants - genus of flowering plants found in South Africa)			
+KX118438.1|	Peronospora mesembryanthemi strain 15-637 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence						233			233			100%		6e-58	99%	KX118438.1
+KP271924.1|	Peronospora cf. fagopyri MK-2015 voucher HOMD PF-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence	233	233		100%		6e-58	99%	KP271924.1
+				Pseudoperonospora cubensis (water mould known for causing downy mildew on cucurbits such as cantaloupe, cucumber, pumpkin, squash and watermelon. )			
+HQ636506.1|	Pseudoperonospora cubensis haplotype 3 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, complete sequence; and 5.8S ribosomal RNA gene, partial sequence															233			233			100%		6e-58	99%	HQ636506.1
+HQ636496.1|	Pseudoperonospora cubensis haplotype 6 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, complete sequence; and 5.8S ribosomal RNA gene, partial sequence															233			233			100%		6e-58	99%	HQ636496.1
+				Phytophthora syringae (oomycete plant pathogen known to infect nursery plants, particularly apple and pear trees. It infects plants through wounded areas and is most pathogenic during cold, wet weather.)
+HM004229.1|	Phytophthora syringae isolate II_2-4P 18S ribosomal RNA gene, partial sequence; and internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence											233			233			100%		6e-58	99%	HM004229.1
+HM004227.1|	Phytophthora pini isolate V_4-3P 18S ribosomal RNA gene, partial sequence; and internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence													233			233			100%		6e-58	99%	HM004227.1
+				Phytophthora plurivora (very aggressive soil-borne plant pathogen, with worldwide distribution and a wide variety of hosts)
+HM004223.1|	Phytophthora plurivora isolate WA5.1-101403 18S ribosomal RNA gene, partial sequence; and internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence										233			233			100%		6e-58	99%	HM004223.1
+HM004221.1|	Phytophthora ramorum isolate WA12-012604 18S ribosomal RNA gene, partial sequence; and internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence											233			233			100%		6e-58	99%	HM004221.1
+BT032234.1|	Phytophthora capsici clone CBOT157-J12 mRNA sequence																																														233			233			100%		6e-58	99%	BT032234.1
+				Phytophthora citricola(plant pathogen.first isolated from orange trees in present-day Taiwan. It has since been found causing disease on a wide variety of plants)
+EU044727.1|	Phytophthora citricola isolate HRVA1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence	233			233			100%		6e-58	99%	EU044727.1
+EU044726.1|	Phytophthora citricola isolate TomA1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence	233			233			100%		6e-58	99%	EU044726.1
+EU044725.1|	Phytophthora citricola isolate AlbB1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence	233			233			100%		6e-58	99%	EU044725.1
+EU044721.1|	Phytophthora citricola isolate USAF 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence	233			233			100%		6e-58	99%	EU044721.1
+EF490682.1|	Phytophthora siskiyouensis isolate 9585.2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence	233		233			100%		6e-58	99%	EF490682.1
+AY742743.1|	Phytophthora tropicalis isolate 129F-1 18S ribosomal RNA gene, partial sequence	233	233	100%	6e-58	99%	AY742743.1
+AY742748.1|	Phytophthora capsici isolate 98110 18S ribosomal RNA gene, partial sequence	233	233	100%	6e-58	99%	AY742748.1
+AY742747.1|	Phytophthora tropicalis isolate 23047 18S ribosomal RNA gene, partial sequence	233	233	100%	6e-58	99%	AY742747.1

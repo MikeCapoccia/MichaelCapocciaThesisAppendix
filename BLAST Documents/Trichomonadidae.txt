@@ -1,0 +1,63 @@
+Trichomonadidae (Anaerobic Protist)
+JX512960.1.1558	D_0__Eukaryota; D_1__Excavata; D_2__Metamonada; D_3__Parabasalia; D_4__Trichomonadea; D_5__Trichomonas; Ambiguous_taxa; D_7__; D_8__; D_9__; D_10__; D_11__; D_12__; D_13__; D_14__
+
+JX512960.1.1558	8812jewbury_1174	8812jewbury_2190	8812jewbury_9651	8812jewbury_17266	8812jewbury_34597	8812jewbury_35973	8812jewbury_44075	8812jewbury_34272	8812jewbury_48271	8812jewbury_22866
+				132234IR_3331		132234IR_4178	132234IR_1985	132234IR_224	
+
+>8812jewbury_9651
+GCTCCTACCGATTGGATGACTCGGTGAAATCACCGGATGCTTACGAGCAGAAAGTGATTAAATCACGTTATCTAGAGGAAGGAAAAGTCGTAACAAGGTAACG
+
+							Description																										Max score	Total score	Query cover	E value	Ident	Accession
+								Tetratrichomonas gallinarum (A genus of parasitic protozoan flagellates) 	
+KU939379.1|	Tetratrichomonas gallinarum isolate TP-79 18S ribosomal RNA gene, partial sequence	185			185			100%		1e-43	99%	KU939379.1
+								Trichomonas gallinae (Parasite in Pigeons, Doves and domestic birds - thought to be an ancient dinosaur pathogen)
+KU939371.1|	Trichomonas gallinae isolate AG 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939371.1
+KU939370.1|	Trichomonas gallinae isolate DP3 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939370.1
+KU939369.1|	Trichomonas gallinae isolate SL 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939369.1
+KU939368.1|	Trichomonas gallinae isolate TG 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939368.1
+								!Trichomonas tenax (Pathogen found in the oral cavity of humans, dogs, cats - normal dental hygeine not sufficient to remove it. Though to play a role in gingavitus/ periodontal disease)
+KU939367.1|	Trichomonas tenax isolate Hs-4:NIH 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939367.1
+								Trichomonas vaginalis (STI - anaerobic, flagellated protozoan parasite and the causative agent of trichomoniasis. It is the most common pathogenic protozoan infection of humans in industrialized countries)
+KU939366.1|	Trichomonas vaginalis isolate 1031 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939366.1
+KU939365.1|	Trichomonas vaginalis isolate 1035 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939365.1
+KU939364.1|	Trichomonas vaginalis isolate 1080 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939364.1
+KU939363.1|	Trichomonas vaginalis isolate C1:NIH 18S ribosomal RNA gene, partial sequence		185			185			100%		1e-43	99%	KU939363.1
+KU939362.1|	Trichomonas vaginalis isolate CDC252 18S ribosomal RNA gene, partial sequence		185			185			100%		1e-43	99%	KU939362.1
+KU939361.1|	Trichomonas vaginalis isolate CNDC188 18S ribosomal RNA gene, partial sequence		185			185			100%		1e-43	99%	KU939361.1
+KU939360.1|	Trichomonas vaginalis isolate CNDC217 18S ribosomal RNA gene, partial sequence		185			185			100%		1e-43	99%	KU939360.1
+KU939359.1|	Trichomonas vaginalis isolate G3 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939359.1
+KU939358.1|	Trichomonas vaginalis isolate GOR21 18S ribosomal RNA gene, partial sequence		185			185			100%		1e-43	99%	KU939358.1
+KU939357.1|	Trichomonas vaginalis isolate GOR23 18S ribosomal RNA gene, partial sequence		185			185			100%		1e-43	99%	KU939357.1
+KU939352.1|	Trichomonas cf. vaginalis isolate 12839 18S ribosomal RNA gene, partial sequence	185			185			100%		1e-43	99%	KU939352.1
+KU939351.1|	Trichomonas cf. vaginalis isolate 12840 18S ribosomal RNA gene, partial sequence	185			185			100%		1e-43	99%	KU939351.1
+KU939350.1|	Trichomonas cf. vaginalis isolate 12842 18S ribosomal RNA gene, partial sequence	185			185			100%		1e-43	99%	KU939350.1
+KU939349.1|	Trichomonas cf. vaginalis isolate 12847 18S ribosomal RNA gene, partial sequence	185			185			100%		1e-43	99%	KU939349.
+
+>132234IR_3331
+GCTCTTACCGATTGGATGACTCGGTGAAATCACCGGATGCTTACGAGCAGAAAGTGATTAAATCACGTTATCTAGAGGAAGGAGAAGTCGTAACAAGGTAACG
+
+							Description																			Max score	Total score	Query cover	E value	Ident	Accession
+								Tetratrichomonas gallinarum (A genus of parasitic protozoan flagellates) 	
+KU939379.1|	Tetratrichomonas gallinarum isolate TP-79 18S ribosomal RNA gene, partial sequence	185			185			100%		1e-43	99%		KU939379.1
+								Trichomonas gallinae (Parasite in Pigeons, Doves and domestic birds - thought to be an ancient dinosaur pathogen)
+KU939371.1|	Trichomonas gallinae isolate AG 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939371.1
+KU939370.1|	Trichomonas gallinae isolate DP3 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939370.1
+KU939369.1|	Trichomonas gallinae isolate SL 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939369.1
+KU939368.1|	Trichomonas gallinae isolate TG 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939368.1
+								!Trichomonas tenax (Pathogen found in the oral cavity of humans, dogs, cats - normal dental hygeine not sufficient to remove it. Though to play a role in gingavitus/ periodontal disease)
+KU939367.1|	Trichomonas tenax isolate Hs-4:NIH 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939367.1
+								Trichomonas vaginalis (STI - anaerobic, flagellated protozoan parasite and the causative agent of trichomoniasis. It is the most common pathogenic protozoan infection of humans in industrialized countries)
+KU939366.1|	Trichomonas vaginalis isolate 1031 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939366.1
+KU939365.1|	Trichomonas vaginalis isolate 1035 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939365.1
+KU939364.1|	Trichomonas vaginalis isolate 1080 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939364.1
+KU939363.1|	Trichomonas vaginalis isolate C1:NIH 18S ribosomal RNA gene, partial sequence		185			185			100%		1e-43	99%	KU939363.1
+KU939362.1|	Trichomonas vaginalis isolate CDC252 18S ribosomal RNA gene, partial sequence		185			185			100%		1e-43	99%	KU939362.1
+KU939361.1|	Trichomonas vaginalis isolate CNDC188 18S ribosomal RNA gene, partial sequence		185			185			100%		1e-43	99%	KU939361.1
+KU939360.1|	Trichomonas vaginalis isolate CNDC217 18S ribosomal RNA gene, partial sequence		185			185			100%		1e-43	99%	KU939360.1
+KU939359.1|	Trichomonas vaginalis isolate G3 18S ribosomal RNA gene, partial sequence			185			185			100%		1e-43	99%	KU939359.1
+KU939358.1|	Trichomonas vaginalis isolate GOR21 18S ribosomal RNA gene, partial sequence		185			185			100%		1e-43	99%	KU939358.1
+KU939357.1|	Trichomonas vaginalis isolate GOR23 18S ribosomal RNA gene, partial sequence		185			185			100%		1e-43	99%	KU939357.1
+KU939352.1|	Trichomonas cf. vaginalis isolate 12839 18S ribosomal RNA gene, partial sequence	185			185			100%		1e-43	99%	KU939352.1
+KU939351.1|	Trichomonas cf. vaginalis isolate 12840 18S ribosomal RNA gene, partial sequence	185			185			100%		1e-43	99%	KU939351.1
+KU939350.1|	Trichomonas cf. vaginalis isolate 12842 18S ribosomal RNA gene, partial sequence	185			185			100%		1e-43	99%	KU939350.1
+KU939349.1|	Trichomonas cf. vaginalis isolate 12847 18S ribosomal RNA gene, partial sequence	185			185			100%		1e-43	99%

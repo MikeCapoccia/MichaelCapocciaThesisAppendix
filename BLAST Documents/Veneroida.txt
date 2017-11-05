@@ -1,0 +1,193 @@
+Veneroida (bivalves)
+KC429372.1.1777	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_4__Eumetazoa; D_5__Bilateria; D_6__Mollusca; D_7__Bivalvia; D_8__Heteroconchia; D_9__Veneroida; D_10__; D_11__; D_12__; D_13__; D_14__
+
+KC429372.1.1777		ElSidron112056_99	ElSidron112056_127	ElSidron112056_405	ElSidron112056_612	ElSidron112056_782	ElSidron112056_820	ElSidron112056_862	
+ElSidron112056_878	ElSidron112056_929	ElSidron112056_1023	ElSidron112056_1452	ElSidron112056_1459	ElSidron112056_1488	ElSidron112056_1529	ElSidron112056_1572	
+ElSidron112056_1596	ElSidron112056_1663	ElSidron112056_1789	ElSidron112056_2005	ElSidron112056_2157	ElSidron112056_2183	ElSidron112056_2282	ElSidron112056_2325	
+ElSidron112056_2498	ElSidron112056_2578	ElSidron112056_2719	ElSidron112056_2799	ElSidron112056_2893	ElSidron112056_3012	ElSidron112056_3067	ElSidron112056_3112	
+ElSidron112056_3187	ElSidron112056_3269	ElSidron112056_3358	ElSidron112056_3575	ElSidron112056_3577	ElSidron112056_3804	ElSidron112056_3925	ElSidron112056_3991	
+ElSidron112056_4210	ElSidron112056_4228	ElSidron112056_4305	ElSidron112056_4457	ElSidron112056_4465	ElSidron112056_4624	ElSidron112056_4678	ElSidron112056_4731	
+ElSidron112056_4745	ElSidron112056_4943	ElSidron112056_5022	ElSidron112056_5430	ElSidron112056_5481	ElSidron112056_5487	ElSidron112056_5516	ElSidron112056_5530	
+ElSidron112056_5644	ElSidron112056_5692	ElSidron112056_5767	ElSidron112056_5788	ElSidron112056_5807	ElSidron112056_5808	ElSidron112056_5955	ElSidron112056_6062	
+ElSidron112056_6068	ElSidron112056_6462	ElSidron112056_6647	ElSidron112056_6700	ElSidron112056_6764	ElSidron112056_6915	ElSidron112056_6979	ElSidron112056_7064	
+ElSidron112056_7212	ElSidron112056_7282	ElSidron112056_7306	ElSidron112056_7346	ElSidron112056_7479	ElSidron112056_7625	ElSidron112056_7747	ElSidron112056_7785	
+ElSidron112056_7911	ElSidron112056_7954	ElSidron112056_7978	ElSidron112056_8161	ElSidron112056_8332	ElSidron112056_8711	ElSidron112056_8753	ElSidron112056_8854	
+ElSidron112056_8939	ElSidron112056_8959	ElSidron112056_9002	ElSidron112056_9013	ElSidron112056_9023	ElSidron112056_9050	ElSidron112056_9114	ElSidron112056_9183	
+ElSidron112056_9190	ElSidron112056_9301	ElSidron112056_9329	ElSidron112056_9374	ElSidron112056_9453	ElSidron112056_9529	ElSidron112056_9551	ElSidron112056_9567	
+ElSidron112056_9737	ElSidron112056_9813	ElSidron112056_9820	ElSidron112056_9975	ElSidron112056_9993	ElSidron112056_10181	ElSidron112056_10281	ElSidron112056_10684
+ElSidron112056_10784	ElSidron112056_10790	ElSidron112056_10795	ElSidron112056_10975	ElSidron112056_11008	ElSidron112056_11077	ElSidron112056_11090	
+ElSidron112056_11234	ElSidron112056_11445	ElSidron112056_11794	ElSidron112056_11831	ElSidron112056_11892	ElSidron112056_11911	ElSidron112056_11913	
+ElSidron112056_11915	ElSidron112056_12165	ElSidron112056_12190	ElSidron112056_12275	ElSidron112056_12356	ElSidron112056_12556	ElSidron112056_12563	
+ElSidron112056_12778	ElSidron112056_12935	ElSidron112056_13248	ElSidron112056_13336	ElSidron112056_13340	ElSidron112056_13341	ElSidron112056_13455	
+ElSidron112056_13464	ElSidron112056_13835	ElSidron112056_13871	ElSidron112056_14061	ElSidron112056_14180	ElSidron112056_14209	ElSidron112056_14237	
+ElSidron112056_14278	ElSidron112056_14353	ElSidron112056_14426	ElSidron112056_14465	ElSidron112056_14479	ElSidron112056_14505	ElSidron112056_14586	
+ElSidron112056_14630	ElSidron112056_14695	ElSidron112056_14717	ElSidron112056_14756	ElSidron112056_14850	ElSidron112056_15061	ElSidron112056_15161	
+ElSidron112056_15175	ElSidron112056_15215	ElSidron112056_15236	ElSidron112056_15287	ElSidron112056_15549	ElSidron112056_15558	ElSidron112056_15562	
+ElSidron112056_15635	ElSidron112056_15699	ElSidron112056_15792	ElSidron112056_15845	ElSidron112056_16017	ElSidron112056_16425	ElSidron112056_16522	
+ElSidron112056_16690	ElSidron112056_16719	ElSidron112056_16904	ElSidron112056_16974	ElSidron112056_17027	ElSidron112056_17093	ElSidron112056_17182	
+ElSidron112056_17235	ElSidron112056_17288	ElSidron112056_17725	ElSidron112056_17835	ElSidron112056_18070	ElSidron112056_18250	ElSidron112056_18267	
+ElSidron112056_18696	ElSidron112056_19014	ElSidron112056_19044	ElSidron112056_19056	ElSidron112056_19073	ElSidron112056_19077	ElSidron112056_19358	
+ElSidron112056_19458	ElSidron112056_19710	ElSidron112056_19716	ElSidron112056_19719	ElSidron112056_19780	ElSidron112056_19849	ElSidron112056_19885	
+ElSidron112056_19911	ElSidron112056_20130	ElSidron112056_20449	ElSidron112056_20668	ElSidron112056_20725	ElSidron112056_20875	ElSidron112056_21160	
+ElSidron112056_21207	ElSidron112056_21306	ElSidron112056_21392	ElSidron112056_21433	ElSidron112056_21517	ElSidron112056_21852	ElSidron112056_22420	
+ElSidron112056_22860	ElSidron112056_22933	ElSidron112056_23670	ElSidron112056_24402	ElSidron112056_24550	ElSidron112056_24827	ElSidron112056_24889	
+ElSidron112056_25050	ElSidron112056_25194	ElSidron112056_25329	ElSidron112056_25466	ElSidron112056_25481	ElSidron112056_25527	ElSidron112056_25532	
+ElSidron112056_25588	ElSidron112056_25641	ElSidron112056_25683	ElSidron112056_25765	ElSidron112056_25788	ElSidron112056_25831	ElSidron112056_25941	
+ElSidron112056_26051	ElSidron112056_26141	ElSidron112056_26197	ElSidron112056_26369	ElSidron112056_26714	ElSidron112056_26848	ElSidron112056_26996	
+ElSidron112056_27000	ElSidron112056_27065	ElSidron112056_27089	ElSidron112056_27268	ElSidron112056_27326	ElSidron112056_27352	ElSidron112056_27462	
+ElSidron112056_27740	ElSidron112056_27753	ElSidron112056_27811	ElSidron112056_27891	ElSidron112056_28034	ElSidron112056_28077	ElSidron112056_28201	
+ElSidron112056_28401	ElSidron112056_28432	ElSidron112056_28433	ElSidron112056_28457	ElSidron112056_28478	ElSidron112056_28525	ElSidron112056_28609	
+ElSidron112056_28736	ElSidron112056_28878	ElSidron112056_28981	ElSidron112056_29049	ElSidron112056_29071	ElSidron112056_29095	ElSidron112056_29107	
+ElSidron112056_29150	ElSidron112056_29277	ElSidron112056_29329	ElSidron112056_29383	ElSidron112056_29446	ElSidron112056_29457	ElSidron112056_29561	
+ElSidron112056_29579	ElSidron112056_29600	ElSidron112056_30147	ElSidron112056_30382	ElSidron112056_30843	ElSidron112056_30969	ElSidron112056_31008	
+ElSidron112056_31013	ElSidron112056_31021	ElSidron112056_31176	ElSidron112056_31232	ElSidron112056_31344	ElSidron112056_31351	ElSidron112056_31375	
+ElSidron112056_31442	ElSidron112056_31511	ElSidron112056_31626	ElSidron112056_31698	ElSidron112056_31824	ElSidron112056_31849	ElSidron112056_31972	
+ElSidron112056_32002	ElSidron112056_32058	ElSidron112056_32282	ElSidron112056_32302	ElSidron112056_32311	ElSidron112056_32326	ElSidron112056_32426	
+ElSidron112056_32610	ElSidron112056_32673	ElSidron112056_32930	ElSidron112056_32932	ElSidron112056_32939	ElSidron112056_33111	ElSidron112056_33320	
+ElSidron112056_33349	ElSidron112056_33473	ElSidron112056_33523	ElSidron112056_33706	ElSidron112056_33769	ElSidron112056_33830	ElSidron112056_33882	
+ElSidron112056_33888	ElSidron112056_33921	ElSidron112056_34297	ElSidron112056_34383	ElSidron112056_34455	ElSidron112056_34638	ElSidron112056_34867	
+ElSidron112056_34916	ElSidron112056_34920	ElSidron112056_34963	ElSidron112056_35038	ElSidron112056_35109	ElSidron112056_35156	ElSidron112056_35207	
+ElSidron112056_35230	ElSidron112056_35483	ElSidron112056_35522	ElSidron112056_35739	ElSidron112056_35761	ElSidron112056_35964	ElSidron112056_36008	
+ElSidron112056_36080	ElSidron112056_36095	ElSidron112056_36378	ElSidron112056_36597	ElSidron112056_36632	ElSidron112056_36673	ElSidron112056_36806	
+ElSidron112056_36862	ElSidron112056_36878	ElSidron112056_37065	ElSidron112056_37101	ElSidron112056_37180	ElSidron112056_37279	ElSidron112056_37339	
+ElSidron112056_37445	ElSidron112056_37563	ElSidron112056_37596	ElSidron112056_37984	ElSidron112056_38095	ElSidron112056_38129	ElSidron112056_38232	
+ElSidron112056_38265	ElSidron112056_38413	ElSidron112056_38494	ElSidron112056_38542	ElSidron112056_38653	ElSidron112056_38683	ElSidron112056_38743
+ElSidron112056_38843	ElSidron112056_38952	ElSidron112056_39013	ElSidron112056_39184	ElSidron112056_39247	ElSidron112056_39276	ElSidron112056_39301	
+ElSidron112056_39303	ElSidron112056_39367	ElSidron112056_39405	ElSidron112056_39549	ElSidron112056_39604	ElSidron112056_39668	ElSidron112056_39840	
+ElSidron112056_39850	ElSidron112056_39903	ElSidron112056_40011	ElSidron112056_40085	ElSidron112056_40091	ElSidron112056_40167	ElSidron112056_40199	
+ElSidron112056_40222	ElSidron112056_40228	ElSidron112056_40259	ElSidron112056_40485	ElSidron112056_40928	ElSidron112056_41102	ElSidron112056_41115	
+ElSidron112056_41434	ElSidron112056_41565	ElSidron112056_41623	ElSidron112056_41750	ElSidron112056_41949	ElSidron112056_42088	ElSidron112056_42304	
+ElSidron112056_42309	ElSidron112056_42490	ElSidron112056_42516	ElSidron112056_42548	ElSidron112056_42554	ElSidron112056_42565	ElSidron112056_42574	
+ElSidron112056_42700	ElSidron112056_42833	ElSidron112056_42943	ElSidron112056_42962	ElSidron112056_43512	ElSidron112056_43560	ElSidron112056_43924	
+ElSidron112056_44002	ElSidron112056_44098	ElSidron112056_44406	ElSidron112056_44481	ElSidron112056_44521	ElSidron112056_44573	ElSidron112056_44652	
+ElSidron112056_44674	ElSidron112056_44875	ElSidron112056_44971	ElSidron112056_45218	ElSidron112056_45373	ElSidron112056_45461	ElSidron112056_45466	
+ElSidron112056_45482	ElSidron112056_45566	ElSidron112056_45585	ElSidron112056_45642	ElSidron112056_45905	ElSidron112056_45926	ElSidron112056_46016	
+ElSidron112056_46155	ElSidron112056_46518	ElSidron112056_1504	ElSidron112056_2037	ElSidron112056_2491	ElSidron112056_6532	ElSidron112056_9884	ElSidron112056_13358
+ElSidron112056_19065	ElSidron112056_21867	ElSidron112056_26888	ElSidron112056_28790	ElSidron112056_35978	ElSidron112056_40210	ElSidron112056_4713	
+ElSidron112056_8486	ElSidron112056_22822	ElSidron112056_23112	ElSidron112056_24308	ElSidron112056_26785	ElSidron112056_37233	ElSidron112056_42452	
+ElSidron112056_45456	ElSidron112056_46091	ElSidron112056_9650	ElSidron112056_12147	ElSidron112056_21592	ElSidron112056_44011	ElSidron112056_44027	
+ElSidron112056_10633	ElSidron112056_29710	ElSidron112056_30081	ElSidron112056_20022	ElSidron112056_39264	ElSidron112056_43072	ElSidron112056_9414	
+ElSidron112056_22557	ElSidron112056_33451	ElSidron112056_1117	ElSidron112056_26192	ElSidron112056_27188	ElSidron112056_2214	ElSidron112056_35646	
+ElSidron112056_38889	ElSidron112056_10267	ElSidron112056_23234	ElSidron112056_33617	ElSidron112056_45709	ElSidron112056_7517	ElSidron112056_36625	
+ElSidron112056_23729	ElSidron112056_43976	ElSidron112056_25817	ElSidron112056_44870	ElSidron112056_26713	ElSidron112056_39825	ElSidron112056_14327	
+ElSidron112056_20490	ElSidron112056_28540	ElSidron112056_44560	ElSidron112056_5056	ElSidron112056_41718	ElSidron112056_31032	ElSidron112056_37331	
+ElSidron112056_18794	ElSidron112056_18800	ElSidron112056_28213	ElSidron112056_28214	ElSidron112056_4455	ElSidron112056_22849	ElSidron112056_12589	
+ElSidron112056_39586	ElSidron112056_10609	ElSidron112056_23322	ElSidron112056_19412	ElSidron112056_14408	ElSidron112056_15865	ElSidron112056_42040	
+ElSidron112056_25619	ElSidron112056_39025	ElSidron112056_10208	ElSidron112056_21979	ElSidron112056_23238	ElSidron112056_26972	ElSidron112056_834	
+ElSidron112056_7561	ElSidron112056_4244	ElSidron112056_44078	ElSidron112056_40045	ElSidron112056_43993	ElSidron112056_35949	ElSidron112056_6387	
+ElSidron112056_21000	ElSidron112056_8120	ElSidron112056_7326	ElSidron112056_34238	ElSidron112056_29196	ElSidron112056_845	ElSidron112056_2008	
+ElSidron112056_1138	ElSidron112056_26374	ElSidron112056_8649	ElSidron112056_19794	ElSidron112056_36977	ElSidron112056_31274	ElSidron112056_40901	
+ElSidron112056_43516	ElSidron112056_16299	ElSidron112056_39306	ElSidron112056_15684	ElSidron112056_31828	ElSidron112056_6707	ElSidron112056_28740	
+ElSidron112056_6414	ElSidron112056_19733	ElSidron112056_34651	ElSidron112056_5551	ElSidron112056_6906	ElSidron112056_18646	ElSidron112056_18781	
+ElSidron112056_18409	ElSidron112056_14199	ElSidron112056_43593																																																	
+
+
+>ElSidron112056_2006
+GCTACTACCGATCGCTCCAGTCAATGAGCTCTTCGGATTGGACCCTTGGGCCGGCTTCGCGGCCGGCTCTCGGTGCGCCGAGAAGATGCGCAAGTTGACCGGGGTAGAGGTCGTAAAAGTCGTAACAAGGTATCC
+	
+BLAST - as geneious was taking an exceedingly long time
+	Description																		Max score	Total score	Query cover	E value	Ident	Accession
+		Mysella chacoti (Antarctic Bivalve Mussel - free living)
+	Mysella charcoti voucher BivAToL-203 18S ribosomal RNA gene, partial sequence	250			250		100%		6e-63	100%	KC429372.1
+		Dreissena polymorpha (Zebra Mussel - fresh water, native to southern Russia/ Ukraine, small and not really edible)
+	Dreissena polymorpha 18S ribosomal RNA gene, complete sequence					250			250		100%		6e-63	100%	AF120552.1
+	Dreissena polymorpha partial 18S rRNA gene, specimen voucher BMNH 20070301 (Natural History Museum, London)	246		246	98%	8e-62	100%	AM774543.1
+		Mytilopsis leucophaeata (Conrads false mussel - freshwater, bivalve mollusc, native to Mexico, similar to Zebra mussel, is also a pest and small)
+	Mytilopsis leucophaeata voucher BivAToL-9 18S ribosomal RNA gene, partial sequence		231	231	100%		2e-57	98%	KX713323.1
+		Mytilopsis sallei (Black-striped mussel - small, marine, bivalve mollusc, similar to zebra mussel, native to central/ south america)
+	Mytilopsis sallei (Black-striped mussel - small, marine, bivalve mollusc, similar to zebra mussel, native to central/ south america)
+	Mytilopsis sallei 18S ribosomal RNA gene, complete sequence						231			231		100%		2e-57	98%	EU780673.1
+	Dreissena polymorpha isolate Drpo1 18S ribosomal RNA gene, partial sequence		224			224		94%		4e-55	98%	JX099478.1
+		Dreissena rostriformis bugensis (Quagga mussel - freshwater aquatic bivalve mollusk, native to Ukraine, edible but contain toxins for humans) 
+	Dreissena rostriformis bugensis isolate Drrb2 18S ribosomal RNA gene, partial sequence	209	209		94%		1e-50	96%	JX099479.1
+		Spisula solida (Surf clam - marine bivalve mollusc, found in waters around great Britain [also found off morocco, france, belgium, netherlands, germany, denmark], is around 5cm long and edible)
+	Spisula solida voucher BivAToL-319 18S ribosomal RNA gene, partial sequence		204			204		100%		5e-49	94%	KX713347.1
+		Rangia cuneata (Wedgeclam - native to the gulf of mexico, edible)
+	Rangia cuneata voucher BivAToL-280 18S ribosomal RNA gene, partial sequence		204			204		100%		5e-49	94%	KC429401.1
+	Spisula solidissima external transcribed spacer, partial sequence; 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, complete sequence; and external transcribed spacer, partial sequence	204	204	100%	5e-49	94%	JN196041.1
+	Spisula subtruncata 18S ribosomal RNA (18S rRNA) gene, complete sequence		204			204		100%		5e-49	94%	L11271.1
+	Spisula solidissima 18S ribosomal RNA (18S rRNA) gene, complete sequence		204			204		100%		5e-49	94%	L11270.1
+	Mactromeris polynyma 18S ribosomal RNA (18S rRNA) gene, complete sequence		204			204		100%		5e-49	94%	L11230.1
+	Mytilopsis sallei isolate Mysa2 18S ribosomal RNA gene, partial sequence		202			202		93%		2e-48	96%	JX099477.1
+	Spisula solida 18S ribosomal RNA (18S rRNA) gene, complete sequence				202			202		99%		2e-48	94%	L11266.1
+	Congeria jalzici isolate L1 18S ribosomal RNA gene, partial sequence			200			200		88%		7e-48	97%	JX099466.1
+	Congeria jalzici isolate I1 18S ribosomal RNA gene, partial sequence			200			200		88%		7e-48	97%	JX099462.1
+	Congeria kusceri isolate D10 18S ribosomal RNA gene, partial sequence			200			200		88%		7e-48	97%	JX099460.1
+	Congeria mulaomerovici isolate DB1 18S ribosomal RNA gene, partial sequence		200			200		88%		7e-48	97%	JX099459.1
+	Caecella horsfieldi partial 18S rRNA gene, specimen voucher BMNH 20070264 (Natural History Museum, London)	200		200	98%	7e-48	94%	AM774554.1
+
+
+>ElSidron112056_4
+GCTACTACCGATCGCTCCAGTCAATGAGCTCTTCGGATTGGACCCTTGGGCCGGCTTCGCGGCCGGCTCTCGGTGCGCCGAGAAGATGCGCAAGTTGACCGGGGTAGAGGTCGTAAAAGTCGTAACAAGGTATCC
+
+					
+			Description																									Max score 	Total score Query cover E value Ident Accession
+				Mysella charcoti (Bivalve molusk)
+KC429372.1|	Mysella charcoti voucher BivAToL-203 18S ribosomal RNA gene, partial sequence								250			250			100%		6e-63	100%	KC429372.1
+				Dreissena polymorpha (Zebra Mussel - fresh water, native to southern Russia/ Ukraine, small and not really edible)
+AF120552.1|	Dreissena polymorpha 18S ribosomal RNA gene, complete sequence												250			250			100%		6e-63	100%	AF120552.1
+AM774543.1|	Dreissena polymorpha partial 18S rRNA gene, specimen voucher BMNH 20070301 (Natural History Museum, London)				246			246			98%		8e-62	100%	AM774543.1
+				Mytilopsis leucophaeata (Conrads false mussel - freshwater, bivalve mollusc, native to Mexico, similar to Zebra mussel, is also a pest and small)
+KX713323.1|	Mytilopsis leucophaeata voucher BivAToL-9 18S ribosomal RNA gene, partial sequence							231			231			100%		2e-57	98%		KX713323.1
+				Mytilopsis sallei (Black-striped mussel - small, marine, bivalve mollusc, similar to zebra mussel, native to central/ south america)
+EU780673.1|	Mytilopsis sallei 18S ribosomal RNA gene, complete sequence													231			231			100%		2e-57	98%		EU780673.1
+JX099478.1|	Dreissena polymorpha isolate Drpo1 18S ribosomal RNA gene, partial sequence									224			224			94%		4e-55	98%		JX099478.1
+				Dreissena rostriformis bugensis (Quagga mussel - freshwater aquatic bivalve mollusk, native to Ukraine, edible but contain toxins for humans) 
+JX099479.1|	Dreissena rostriformis bugensis isolate Drrb2 18S ribosomal RNA gene, partial sequence						209			209			94%		1e-50	96%		JX099479.1
+				Spisula solida (Surf clam - marine bivalve mollusc, found in waters around great Britain [also found off morocco, france, belgium, netherlands, germany, denmark], is around 5cm long and edible)
+KX713347.1|	Spisula solida voucher BivAToL-319 18S ribosomal RNA gene, partial sequence									204			204			100%		5e-49	94%		KX713347.1
+				Rangia cuneata (Wedgeclam - native to the gulf of mexico, edible)
+KC429401.1|	Rangia cuneata voucher BivAToL-280 18S ribosomal RNA gene, partial sequence									204			204			100%		5e-49	94%		KC429401.1
+JN196041.1|	Spisula solidissima external transcribed spacer, partial sequence; 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, complete sequence; and external transcribed spacer, partial sequence	204	204	100%	5e-49	94%	JN196041.1
+L11271.1|SIURR18SC	Spisula subtruncata 18S ribosomal RNA (18S rRNA) gene, complete sequence							204			204			100%		5e-49	94%		L11271.1
+L11270.1|SIURR18SB	Spisula solidissima 18S ribosomal RNA (18S rRNA) gene, complete sequence							204			204			100%		5e-49	94%		L11270.1
+				Mactromeris polynyma (Arctic Surfclam)
+L11230.1|MMERR18SA	Mactromeris polynyma 18S ribosomal RNA (18S rRNA) gene, complete sequence							204			204			100%		5e-49	94%		L11230.1
+JX099477.1|	Mytilopsis sallei isolate Mysa2 18S ribosomal RNA gene, partial sequence									202			202			93%		2e-48	96%		JX099477.1
+L11266.1|SIURR18S	Spisula solida 18S ribosomal RNA (18S rRNA) gene, complete sequence									202			202			99%		2e-48	94%	L11266.1
+				Coneria jalzici (Cave dwelling bivalve found in Croatia, Slovenia, Bosnia and Herzegovina)
+JX099466.1|	Congeria jalzici isolate L1 18S ribosomal RNA gene, partial sequence										200			200			88%		6e-48	97%	JX099466.1
+JX099462.1|	Congeria jalzici isolate I1 18S ribosomal RNA gene, partial sequence										200			200			88%		6e-48	97%	JX099462.1
+JX099460.1|	Congeria kusceri isolate D10 18S ribosomal RNA gene, partial sequence										200			200			88%		6e-48	97%	JX099460.1
+JX099459.1|	Congeria mulaomerovici isolate DB1 18S ribosomal RNA gene, partial sequence									200			200			88%		6e-48	97%	JX099459.1
+				Caecella horsfieldi
+AM774554.1|	Caecella horsfieldi partial 18S rRNA gene, specimen voucher BMNH 20070264 (Natural History Museum, London)				200			200			98%		6e-48	94%	AM774554.1
+
+>ElSidron112056_6048
+GCTACTACCGATCGCTCCAGTCAATGAGCTCTTCGGATTGGACCCTTGGGCCGGCTTCGCGGCCGGCTCTCGGCGCGCCGAGAAGATGCGCAAGTTGACCGGGGTAGAGGTCGTAAAAGTCGTAACAAGGTATCC
+
+
+			Description																									Max score	Total score	Query cover	E value	Ident	Accession
+				Mysella charcoti (Bivalve molusk)
+KC429372.1|	Mysella charcoti voucher BivAToL-203 18S ribosomal RNA gene, partial sequence								244			244			100%		3e-61	99%		KC429372.1
+				Dreissena polymorpha (Zebra Mussel - fresh water, native to southern Russia/ Ukraine, small and not really edible)
+AF120552.1|	Dreissena polymorpha 18S ribosomal RNA gene, complete sequence												244			244			100%		3e-61	99%		AF120552.1
+AM774543.1|	Dreissena polymorpha partial 18S rRNA gene, specimen voucher BMNH 20070301 (Natural History Museum, London)				241			241			98%			4e-60	99%		AM774543.1
+				Mytilopsis leucophaeata (Conrads false mussel - freshwater, bivalve mollusc, native to Mexico, similar to Zebra mussel, is also a pest and small)
+KX713323.1|	Mytilopsis leucophaeata voucher BivAToL-9 18S ribosomal RNA gene, partial sequence							226			226			100%		1e-55	97%		KX713323.1
+				Mytilopsis sallei (Black-striped mussel - small, marine, bivalve mollusc, similar to zebra mussel, native to central/ south america)
+EU780673.1|	Mytilopsis sallei 18S ribosomal RNA gene, complete sequence													226			226			100%		1e-55	97%		EU780673.1
+				Dreissena rostriformis bugensis (Quagga mussel - freshwater aquatic bivalve mollusk, native to Ukraine, edible but contain toxins for humans) 
+JX099478.1|	Dreissena polymorpha isolate Drpo1 18S ribosomal RNA gene, partial sequence									219			219			94%			2e-53	98%		JX099478.1
+JX099479.1|	Dreissena rostriformis bugensis isolate Drrb2 18S ribosomal RNA gene, partial sequence						204			204			94%			5e-49	95%		JX099479.1
+				Spisula solida (Surf clam - marine bivalve mollusc, found in waters around great Britain [also found off morocco, france, belgium, netherlands, germany, denmark], is around 5cm long and edible)
+KX713347.1|	Spisula solida voucher BivAToL-319 18S ribosomal RNA gene, partial sequence									198			198			100%		2e-47	93%		KX713347.1
+				Rangia cuneata (Wedgeclam - native to the gulf of mexico, edible)
+KC429401.1|	Rangia cuneata voucher BivAToL-280 18S ribosomal RNA gene, partial sequence									198			198			100%		2e-47	93%		KC429401.1
+JN196041.1|	Spisula solidissima external transcribed spacer, partial sequence; 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 28S ribosomal RNA gene, complete sequence; and external transcribed spacer, partial sequence	198	198	100%	2e-47	93%	JN196041.1
+L11271.1|SIURR18SC	Spisula subtruncata 18S ribosomal RNA (18S rRNA) gene, complete sequence							198			198			100%		2e-47	93%		L11271.1
+L11270.1|SIURR18SB	Spisula solidissima 18S ribosomal RNA (18S rRNA) gene, complete sequence							198			198			100%		2e-47	93%		L11270.1
+L11230.1|MMERR18SA	Mactromeris polynyma 18S ribosomal RNA (18S rRNA) gene, complete sequence							198			198			100%		2e-47	93%		L11230.1
+JX099477.1|	Mytilopsis sallei isolate Mysa2 18S ribosomal RNA gene, partial sequence									196			196			93%			8e-47	95%		JX099477.1
+L11266.1|SIURR18S	Spisula solida 18S ribosomal RNA (18S rRNA) gene, complete sequence									196						99%			8e-47	93%		L11266.1
+				Coneria jalzici (Cave dwelling bivalve found in Croatia, Slovenia, Bosnia and Herzegovina)
+JX099466.1|	Congeria jalzici isolate L1 18S ribosomal RNA gene, partial sequence										195			195			88%			3e-46	96%		JX099466.1
+JX099462.1|	Congeria jalzici isolate I1 18S ribosomal RNA gene, partial sequence										195			195			88%			3e-46	96%		JX099462.1
+JX099460.1|	Congeria kusceri isolate D10 18S ribosomal RNA gene, partial sequence										195			195			88%			3e-46	96%		JX099460.1
+JX099459.1|	Congeria mulaomerovici isolate DB1 18S ribosomal RNA gene, partial sequence									195			195			88%			3e-46	96%		JX099459.1
+AM774554.1|	Caecella horsfieldi partial 18S rRNA gene, specimen voucher BMNH 20070264 (Natural History Museum, London)	195			195			98%			3e-46	93%		AM774554.1
+
+
+
+
+

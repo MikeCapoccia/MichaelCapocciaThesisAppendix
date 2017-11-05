@@ -1,0 +1,90 @@
+Cercomonas (Small Flagellates)
+
+EF024692.1.1805	D_0__Eukaryota; D_1__SAR; D_2__Rhizaria; D_3__Cercozoa; D_4__Cercomonadidae; D_5__Cercomonas; D_6__uncultured cercomonad; D_7__; D_8__; D_9__; D_10__; D_11__; D_12__; D_13__; D_14__
+AY965860.1.1812	D_0__Eukaryota; D_1__SAR; D_2__Rhizaria; D_3__Cercozoa; D_4__Cercomonadidae; D_5__Cercomonas; Ambiguous_taxa; D_7__; D_8__; D_9__; D_10__; D_11__; D_12__; D_13__; D_14__
+
+EF024692.1.1805	13229IR_276	13229IR_464	13229IR_715	13229IR_1395	13229IR_2111	13229IR_2315	13229IR_2739	13229IR_2836	13229IR_3142	13229IR_3158	13229IR_3302
+AY965860.1.1812	132234IR_856	132234IR_3881	132234IR_5034	132234IR_5569	132234IR_2090	132234IR_728		132234IR_4463
+				132232IR_1974
+
+
+>13229IR_1395
+GCTACTACCGATTGAATGGCTTAGTGAGTTTCAGGGATTGTTGTGTTTGGTTGGTTCGCCTTCCTTGCACATCCGAGAACTGAATCAAACTTGATCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCC
+
+							Description																	Max score	Total score	Query cover	E value	Ident	Accession
+								!Cercomonas (Cercomonads are small flagellates, widespread in aqueous habitats and common in soils)
+Select seq gb|HM536145.1|	Cercomonas sp. HFCC 900 18S ribosomal RNA gene, partial sequence			241			241			100%		4e-60	100%	HM536145.1
+Select seq gb|FJ790688.1|	Cercomonas sp. Panama69 18S ribosomal RNA gene, partial sequence			241			241			100%		4e-60	100%	FJ790688.1
+Select seq gb|FJ790686.1|	Cercomonas deformans strain 20-8D 18S ribosomal RNA gene, partial sequence	241			241			100%		4e-60	100%	FJ790686.1
+Select seq gb|FJ790684.1|	Cercomonas mtoleri strain BuffaloH5 18S ribosomal RNA gene, partial sequence	241		241			100%		4e-60	100%	FJ790684.1
+Select seq gb|FJ790683.1|	Cercomonas zhukovi strain xt202 18S ribosomal RNA gene, partial sequence	241			241			100%		4e-60	100%	FJ790683.1
+Select seq gb|FJ790682.1|	Cercomonas hederae strain IVY20 18S ribosomal RNA gene, partial sequence	241			241			100%		4e-60	100%	FJ790682.1
+Select seq gb|FJ790681.1|	Cercomonas media strain xt182 18S ribosomal RNA gene, partial sequence		241			241			100%		4e-60	100%	FJ790681.1
+Select seq gb|FJ176715.1|	Cercomonas sp. HFCC52 18S ribosomal RNA gene, partial sequence				241			241			100%		4e-60	100%	FJ176715.1
+Select seq gb|DQ211598.1|	Cercomonas sp. HFCC89 18S ribosomal RNA gene, partial sequence				241			241			100%		4e-60	100%	DQ211598.1
+Select seq gb|DQ442884.1|	Cercomonas longicauda 18S ribosomal RNA gene, partial sequence				241			241			100%		4e-60	100%	DQ442884.1
+Select seq gb|FJ790687.1|	Cercomonas ricae strain IB3 18S ribosomal RNA gene, partial sequence		239			239			99%			1e-59	100%	FJ790687.1
+Select seq gb|FJ790685.1|	Cercomonas hiberna strain W70 18S ribosomal RNA gene, partial sequence		237			237			100%		5e-59	99%	FJ790685.1
+Select seq gb|U42449.1|CAU42449	Cercomonas ATCC50317 18S ribosomal RNA gene, complete sequence			233			233			100%		6e-58	99%	U42449.1
+Select seq gb|HM536149.1|	Cercomonas sp. HFCC 904 18S ribosomal RNA gene, partial sequence			230			230			100%		8e-57	98%	HM536149.1
+Select seq gb|HM536148.1|	Cercomonas sp. HFCC 903 18S ribosomal RNA gene, partial sequence			230			230			100%		8e-57	98%	HM536148.1
+Select seq gb|HM536147.1|	Cercomonas sp. HFCC 902 18S ribosomal RNA gene, partial sequence			230			230			100%		8e-57	98%	HM536147.1
+Select seq gb|FJ790695.1|	Cercomonas kiaerdammane strain NY12 18S ribosomal RNA gene, partial sequence	230		230			100%		8e-57	98%	FJ790695.1
+Select seq gb|EF455759.1|	Cercomonas sp. ATCC PRA-21 18S small subunit ribosomal RNA gene, partial sequence	230	230			100%		8e-57	98%	EF455759.1
+Select seq gb|AY965869.1|	Soil flagellate AND27 18S ribosomal RNA gene, partial sequence				230			230			100%		8e-57	98%	AY965869.1
+Select seq gb|AY965868.1|	Soil flagellate AND25 18S ribosomal RNA gene, partial sequence				230			230			100%		8e-57	98%	AY965868.1
+
+>132234IR_2090
+GCTACTACCGATTGAATGGCTTAGTGAGTTTCAGGGATTGTTGTATTTAGTAGGTTCGCCTACTTTGTACATCCGAGAACTGAATCAAACTTGATCATTTAGAGGAATTAAAAGTCGTAACAAGGTTTCC
+
+							Description																	Max score	Total score	Query cover	E value	Ident	Accession
+								!Cercomonas (Cercomonads are small flagellates, widespread in aqueous habitats and common in soils)
+Select seq gb|HM536146.1|	Cercomonas sp. HFCC 901 18S ribosomal RNA gene, partial sequence			224			224			100%		4e-55	98%	HM536146.1
+								Cercozoa (The group includes most amoeboids and flagellates that feed by means of filose pseudopods.)
+Select seq gb|GU320576.1|	Cercozoa sp. COHH 1 18S ribosomal RNA gene, partial sequence				224			224			100%		4e-55	98%	GU320576.1
+Select seq gb|FJ790698.1|	Cercomonas paraglobosa strain 19-3E 18S ribosomal RNA gene, partial sequence	224		224			100%		4e-55	98%	FJ790698.1
+Select seq gb|FJ790697.1|	Cercomonas parambigua strain WA22 18S ribosomal RNA gene, partial sequence	224			224			100%		4e-55	98%	FJ790697.1
+Select seq gb|FJ790694.1|	Cercomonas rapida strain 18-6E 18S ribosomal RNA gene, partial sequence		224			224			100%		4e-55	98%	FJ790694.1
+Select seq gb|EF024505.1|	Cercomonadidae environmental sample clone Elev_18S_809 18S ribosomal RNA gene, partial sequence	224	224	100%	4e-55	98%	EF024505.1
+Select seq gb|AY965860.1|	Soil flagellate AND6 18S ribosomal RNA gene, partial sequence				224			224			100%		4e-55	98%	AY965860.1
+Select seq gb|FJ790696.1|	Cercomonas ambigua strain WA82 18S ribosomal RNA gene, partial sequence		220			220			100%		5e-54	97%	FJ790696.1
+Select seq gb|HM536149.1|	Cercomonas sp. HFCC 904 18S ribosomal RNA gene, partial sequence			213			213			100%		8e-52	96%	HM536149.1
+Select seq gb|HM536148.1|	Cercomonas sp. HFCC 903 18S ribosomal RNA gene, partial sequence			213			213			100%		8e-52	96%	HM536148.1
+Select seq gb|HM536147.1|	Cercomonas sp. HFCC 902 18S ribosomal RNA gene, partial sequence			213			213			100%		8e-52	96%	HM536147.1
+Select seq gb|FJ790695.1|	Cercomonas kiaerdammane strain NY12 18S ribosomal RNA gene, partial sequence	213		213			100%		8e-52	96%	FJ790695.1
+Select seq gb|EF455759.1|	Cercomonas sp. ATCC PRA-21 18S small subunit ribosomal RNA gene, partial sequence	213	213			100%		8e-52	96%	EF455759.1
+Select seq gb|AY965869.1|	Soil flagellate AND27 18S ribosomal RNA gene, partial sequence				213			213			100%		8e-52	96%	AY965869.1
+Select seq gb|AY965868.1|	Soil flagellate AND25 18S ribosomal RNA gene, partial sequence				213			213			100%		8e-52	96%	AY965868.1
+Select seq gb|AF411266.1|	Cercomonas sp. (LargeSA) 18S ribosomal RNA gene, complete sequence			213			213			100%		8e-52	96%	AF411266.1
+Select seq gb|EF024268.1|	Cercomonadidae environmental sample clone Elev_18S_652 18S ribosomal RNA gene, partial sequence	207	207	100%	4e-50	95%	EF024268.1
+Select seq gb|EF024692.1|	Cercomonadidae environmental sample clone Elev_18S_1178 18S ribosomal RNA gene, partial sequence	207	207	100%	4e-50	95%	EF024692.1
+Select seq gb|EF024251.1|	Cercomonadidae environmental sample clone Elev_18S_628 18S ribosomal RNA gene, partial sequence	207	207	100%	4e-50	95%	EF024251.1
+Select seq gb|HM536145.1|	Cercomonas sp. HFCC 900 18S ribosomal RNA gene, partial sequence			202			202			100%		2e-48	95%	HM536145.1
+
+>132232IR_1974
+GCTACTACCGATTGAATGGCTTAGTGAGCTTCAGGGATTGTTGTATTTAGTAGGTTCGCCTACTTTGTACATCCGAGAACTGAATCAAACTTGATCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCC
+
+##Singleton##
+							Description																	Max score	Total score	Query cover	E value	Ident	Accession
+								!Cercomonas (Cercomonads are small flagellates, widespread in aqueous habitats and common in soils)
+Select seq gb|HM536146.1|	Cercomonas sp. HFCC 901 18S ribosomal RNA gene, partial sequence			224			224			100%		4e-55	98%	HM536146.1
+								Cercozoa (The group includes most amoeboids and flagellates that feed by means of filose pseudopods.)
+Select seq gb|GU320576.1|	Cercozoa sp. COHH 1 18S ribosomal RNA gene, partial sequence				224			224			100%		4e-55	98%	GU320576.1
+Select seq gb|FJ790698.1|	Cercomonas paraglobosa strain 19-3E 18S ribosomal RNA gene, partial sequence	224		224			100%		4e-55	98%	FJ790698.1
+Select seq gb|FJ790697.1|	Cercomonas parambigua strain WA22 18S ribosomal RNA gene, partial sequence	224			224			100%		4e-55	98%	FJ790697.1
+Select seq gb|FJ790694.1|	Cercomonas rapida strain 18-6E 18S ribosomal RNA gene, partial sequence		224			224			100%		4e-55	98%	FJ790694.1
+Select seq gb|EF024505.1|	Cercomonadidae environmental sample clone Elev_18S_809 18S ribosomal RNA gene, partial sequence	224	224	100%	4e-55	98%	EF024505.1
+Select seq gb|AY965860.1|	Soil flagellate AND6 18S ribosomal RNA gene, partial sequence				224			224			100%		4e-55	98%	AY965860.1
+Select seq gb|FJ790696.1|	Cercomonas ambigua strain WA82 18S ribosomal RNA gene, partial sequence		220			220			100%		5e-54	97%	FJ790696.1
+Select seq gb|EF024268.1|	Cercomonadidae environmental sample clone Elev_18S_652 18S ribosomal RNA gene, partial sequence	219	219	100%	2e-53	97%	EF024268.1
+Select seq gb|EF024692.1|	Cercomonadidae environmental sample clone Elev_18S_1178 18S ribosomal RNA gene, partial sequence	219	219	100%	2e-53	97%	EF024692.1
+Select seq gb|EF024251.1|	Cercomonadidae environmental sample clone Elev_18S_628 18S ribosomal RNA gene, partial sequence	219	219	100%	2e-53	97%	EF024251.1
+Select seq gb|HM536149.1|	Cercomonas sp. HFCC 904 18S ribosomal RNA gene, partial sequence			213			213			100%		8e-52	96%	HM536149.1
+Select seq gb|HM536148.1|	Cercomonas sp. HFCC 903 18S ribosomal RNA gene, partial sequence			213			213			100%		8e-52	96%	HM536148.1
+Select seq gb|HM536147.1|	Cercomonas sp. HFCC 902 18S ribosomal RNA gene, partial sequence			213			213			100%		8e-52	96%	HM536147.1
+Select seq gb|FJ790695.1|	Cercomonas kiaerdammane strain NY12 18S ribosomal RNA gene, partial sequence	213		213			100%		8e-52	96%	FJ790695.1
+Select seq gb|EF455759.1|	Cercomonas sp. ATCC PRA-21 18S small subunit ribosomal RNA gene, partial sequence	213	213			100%		8e-52	96%	EF455759.1
+Select seq gb|AY965869.1|	Soil flagellate AND27 18S ribosomal RNA gene, partial sequence				213			213			100%		8e-52	96%	AY965869.1
+Select seq gb|AY965868.1|	Soil flagellate AND25 18S ribosomal RNA gene, partial sequence				213			213			100%		8e-52	96%	AY965868.1
+Select seq gb|AF411266.1|	Cercomonas sp. (LargeSA) 18S ribosomal RNA gene, complete sequence			213			213			100%		8e-52	96%	AF411266.1
+Select seq gb|HM536151.1|	Cercomonas sp. HFCC 906 18S ribosomal RNA gene, partial sequence			207			207			100%		4e-50	95%	HM536151.1

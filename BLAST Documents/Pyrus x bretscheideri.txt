@@ -1,0 +1,83 @@
+Pyrus x bretschneideri (Chinese white pear)
+AJSU01005080.12669.14614	D_0__Eukaryota; D_1__Archaeplastida; D_2__Chloroplastida; D_3__Charophyta; D_4__Phragmoplastophyta; D_5__Streptophyta; D_6__Embryophyta; D_7__Tracheophyta; D_8__Spermatophyta; D_9__Magnoliophyta; D_10__Rosales; D_11__Pyrus; D_12__Pyrus x bretschneideri; D_13__; D_14__
+
+AJSU01005080.12669.14614	C12modern_55	C12modern_76	C12modern_84	C12modern_98	C12modern_203	C12modern_213	C12modern_229
+							C12modern_326	C12modern_341	C12modern_346	C12modern_542	C12modern_616	C12modern_751	C12modern_795
+							C12modern_855	C12modern_1143	C12modern_1192	C12modern_1314	C12modern_1502	C12modern_1543	C12modern_1575
+							C12modern_1878	C12modern_1887	C12modern_1957	C12modern_2005	C12modern_2065	C12modern_2097	C12modern_2099	
+							C12modern_2124	C12modern_2167	C12modern_2257	C12modern_2297	C12modern_2443	C12modern_2484	C12modern_2525	
+							C12modern_2673	C12modern_2785	C12modern_2866	C12modern_2871	C12modern_2881	C12modern_3199	C12modern_3210	
+							C12modern_3216	C12modern_3238	C12modern_3369	C12modern_3521	C12modern_3573	C12modern_3608	C12modern_3789	
+							C12modern_3849	C12modern_3892	C12modern_3964	C12modern_4001	C12modern_4006	C12modern_4038	C12modern_4058	
+							C12modern_4081	C12modern_4104	C12modern_4291	C12modern_4307	C12modern_4321	C12modern_4506	C12modern_4522	
+							C12modern_2236	C12modern_3232	C12modern_3828	C12modern_4606	C12modern_1565	C12modern_1566	C12modern_1339
+							C12modern_1860	C12modern_97	C12modern_3893	C12modern_3509	C12modern_2260	C12modern_2642	C12modern_4280
+							
+>C12modern_84
+GCTCCTACCGATTGAATGGTCCGGTGAAGTGTTCGGATCGCGGCGACGCGGGTGGTTCGCTGCCCGCGACGTCGCGAGAAGTCCACTGAACCTTATCATTTAGAGGAAGGAGAAGTCGTAACAAGGTTTCC
+
+				Description																					Max score	Total score	Query cover	E value	Ident	Accession
+				Pyrus x bretschneideri (the ya pear or pearple or Chinese white pear is an interspecific hybrid species of pear native to North China, where it is widely grown for its edible fruit)
+XM_018646188.1|	PREDICTED: Pyrus x bretschneideri uncharacterized LOC108866852 (LOC108866852), partial mRNA	243			243	100%	1e-60	100%	XM_018646188.1
+XR_670076.2|	PREDICTED: Pyrus x bretschneideri uncharacterized LOC103965612 (LOC103965612), ncRNA		243			243	100%	1e-60	100%	XR_670076.2
+XM_018649667.1|	PREDICTED: Pyrus x bretschneideri uncharacterized LOC108867880 (LOC108867880), mRNA			243			243	100%	1e-60	100%	XM_018649667.1
+XM_018649665.1|	PREDICTED: Pyrus x bretschneideri uncharacterized LOC108867878 (LOC108867878), mRNA			243			243	100%	1e-60	100%	XM_018649665.1
+XM_009368297.2|	PREDICTED: Pyrus x bretschneideri uncharacterized LOC103956333 (LOC103956333), mRNA			243			243	100%	1e-60	100%	XM_009368297.2
+XR_001953864.1|	PREDICTED: Pyrus x bretschneideri uncharacterized LOC108867876 (LOC108867876), misc_RNA		243			243	100%	1e-60	100%	XR_001953864.1
+XM_018649664.1|	PREDICTED: Pyrus x bretschneideri uncharacterized LOC108867875 (LOC108867875), partial mRNA	243			243	100%	1e-60	100%	XM_018649664.1
+				Prunus persica (Peach is a deciduous tree native to the region of Northwest China, where it was first domesticated and cultivated. It bears an edible juicy fruit called a peach or a nectarine.)
+XR_002271122.1|	PREDICTED: Prunus persica uncharacterized LOC109948485 (LOC109948485), misc_RNA				237			237	100%	5e-59	99%		XR_002271122.1
+XR_002271121.1|	PREDICTED: Prunus persica uncharacterized LOC109948484 (LOC109948484), misc_RNA				237			237	100%	5e-59	99%		XR_002271121.1
+				Prunus salicina cultivar (Red Plum  commonly called the Japanese plum or Chinese plum, is a small deciduous tree native to China. It is now also grown in fruit orchards in Korea, Japan, the United States, and Australia.)
+KX035087.1|	Prunus salicina cultivar Red Plum 18S ribosomal RNA gene, partial sequence						237			237	100%	5e-59	99%		KX035087.1
+				Prunus virginiana (bitter-berry/ chokecherry/ Virginia bird cherry/ western chokecherry - species of bird cherry native to North America; including most of Canada, most of the United States  and northern Mexico)
+KT459207.1|	Prunus virginiana voucher Ahrendsen_4 18S ribosomal RNA gene, partial sequence					237			237	100%	5e-59	99%		KT459207.1
+KF800661.1|	Uncultured eukaryote clone CMH572 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence	237	237	100%	5e-59	99%	KF800661.1		
+L28749.1|PRUEAA	Prunus persica (L.) Batsch. 18S ribosomal RNA (18S rRNA) gene								233			233	98%		6e-58	99%		L28749.1
+				Passiflora cincinnata (species of Passiflora [vines/ flowers] from Brazil)
+MF327246.1|	Passiflora cincinnata bio-material Pc3 small subunit ribosomal RNA gene and internal transcribed spacer 1, partial sequence	231	231	100%	2e-57	98%	MF327246.1
+				Spondias tuberosa (umbu/imbu, is native to northeast Brazil, where it grows in the Caatinga, the chaparral scrub that grows wild across dry lands of the Sertão)
+KX522674.1|	Spondias tuberosa external transcribed spacer, partial sequence; 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S ribosomal RNA gene, complete sequence; and nontranscribed intergenic spacer, partial sequence	231	231	100%	2e-57	98%	KX522674.1
+				Gossypium arboreum (tree cotton, is a species of cotton native to India, Pakistan and other tropical and subtropical regions of the Old World. There is evidence of its cultivation as long ago as the Harappan civilizationfor the production of cotton textiles. This species of cotton was also introduced into East Africa )
+XM_017753790.1|	PREDICTED: Gossypium arboreum uncharacterized LOC108455200 (LOC108455200), mRNA				231			231	100%	2e-57	98%	XM_017753790.1
+XM_017753787.1|	PREDICTED: Gossypium arboreum uncharacterized LOC108455194 (LOC108455194), mRNA				231			231	100%	2e-57	98%	XM_017753787.1
+				Gossypium hirsutum (upland cotton/ Mexican cotton - most widely planted species of cotton in the United States, constituting some 95% of all cotton production there)
+XM_016847390.1|	PREDICTED: Gossypium hirsutum uncharacterized LOC107917947 (LOC107917947), mRNA				231			231	100%	2e-57	98%	XM_016847390.1
+XM_016854754.1|	PREDICTED: Gossypium hirsutum uncharacterized LOC107924353 (LOC107924353), mRNA				231			231	100%	2e-57	98%	XM_016854754.1
+
+							
+
+>C12modern_3238
+GCTCCTACCGATTGAATGGTCCGGTGAAGTGTTCGGATCGCGGCGACGCGGGTGGTTCGCTGCCCGCGACGTCGCGAGAAGTCCACTGAACCTTATCATTTAGAGGAAGGAGAAGTCGTAACAAGGTTTCC
+
+				Description																					Max score	Total score	Query cover	E value	Ident	Accession
+				Pyrus x bretschneideri (the ya pear or pearple or Chinese white pear is an interspecific hybrid species of pear native to North China, where it is widely grown for its edible fruit)
+XM_018646188.1|	PREDICTED: Pyrus x bretschneideri uncharacterized LOC108866852 (LOC108866852), partial mRNA	243			243	100%	1e-60	100%	XM_018646188.1
+XR_670076.2|	PREDICTED: Pyrus x bretschneideri uncharacterized LOC103965612 (LOC103965612), ncRNA		243			243	100%	1e-60	100%	XR_670076.2
+XM_018649667.1|	PREDICTED: Pyrus x bretschneideri uncharacterized LOC108867880 (LOC108867880), mRNA			243			243	100%	1e-60	100%	XM_018649667.1
+XM_018649665.1|	PREDICTED: Pyrus x bretschneideri uncharacterized LOC108867878 (LOC108867878), mRNA			243			243	100%	1e-60	100%	XM_018649665.1
+XM_009368297.2|	PREDICTED: Pyrus x bretschneideri uncharacterized LOC103956333 (LOC103956333), mRNA			243			243	100%	1e-60	100%	XM_009368297.2
+XR_001953864.1|	PREDICTED: Pyrus x bretschneideri uncharacterized LOC108867876 (LOC108867876), misc_RNA		243			243	100%	1e-60	100%	XR_001953864.1
+XM_018649664.1|	PREDICTED: Pyrus x bretschneideri uncharacterized LOC108867875 (LOC108867875), partial mRNA	243			243	100%	1e-60	100%	XM_018649664.1
+				Prunus persica (Peach is a deciduous tree native to the region of Northwest China, where it was first domesticated and cultivated. It bears an edible juicy fruit called a peach or a nectarine.)
+XR_002271122.1|	PREDICTED: Prunus persica uncharacterized LOC109948485 (LOC109948485), misc_RNA				237			237	100%	5e-59	99%	XR_002271122.1
+XR_002271121.1|	PREDICTED: Prunus persica uncharacterized LOC109948484 (LOC109948484), misc_RNA				237			237	100%	5e-59	99%	XR_002271121.1
+				Prunus salicina cultivar (Red Plum  commonly called the Japanese plum or Chinese plum, is a small deciduous tree native to China. It is now also grown in fruit orchards in Korea, Japan, the United States, and Australia.)
+KX035087.1|	Prunus salicina cultivar Red Plum 18S ribosomal RNA gene, partial sequence						237			237	100%	5e-59	99%	KX035087.1
+				Prunus virginiana (bitter-berry/ chokecherry/ Virginia bird cherry/ western chokecherry - species of bird cherry native to North America; including most of Canada, most of the United States  and northern Mexico)
+KT459207.1|	Prunus virginiana voucher Ahrendsen_4 18S ribosomal RNA gene, partial sequence					237			237	100%	5e-59	99%	KT459207.1
+KF800661.1|	Uncultured eukaryote clone CMH572 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence	237	237	100%	5e-59	99%	KF800661.1
+L28749.1|PRUEAA	Prunus persica (L.) Batsch. 18S ribosomal RNA (18S rRNA) gene								233	233	98%	6e-58	99%	L28749.1
+				Passiflora cincinnata (species of Passiflora [vines/ flowers] from Brazil)
+MF327246.1|	Passiflora cincinnata bio-material Pc3 small subunit ribosomal RNA gene and internal transcribed spacer 1, partial sequence	231	231	100%	2e-57	98%	MF327246.1
+				Spondias tuberosa (umbu/imbu, is native to northeast Brazil, where it grows in the Caatinga, the chaparral scrub that grows wild across dry lands of the Sertão)
+KX522674.1|	Spondias tuberosa external transcribed spacer, partial sequence; 18S ribosomal RNA gene, internal transcribed spacer 1, 5.8S ribosomal RNA gene, internal transcribed spacer 2, and 26S ribosomal RNA gene, complete sequence; and nontranscribed intergenic spacer, partial sequence	231	231	100%	2e-57	98%	KX522674.1
+				Gossypium arboreum (tree cotton, is a species of cotton native to India, Pakistan and other tropical and subtropical regions of the Old World. There is evidence of its cultivation as long ago as the Harappan civilizationfor the production of cotton textiles. This species of cotton was also introduced into East Africa )
+XM_017753790.1|	PREDICTED: Gossypium arboreum uncharacterized LOC108455200 (LOC108455200), mRNA				231			231	100%	2e-57	98%	XM_017753790.1
+XM_017753787.1|	PREDICTED: Gossypium arboreum uncharacterized LOC108455194 (LOC108455194), mRNA				231			231	100%	2e-57	98%	XM_017753787.1
+				Gossypium hirsutum (upland cotton/ Mexican cotton - most widely planted species of cotton in the United States, constituting some 95% of all cotton production there)
+XM_016847390.1|	PREDICTED: Gossypium hirsutum uncharacterized LOC107917947 (LOC107917947), mRNA				231			231	100%	2e-57	98%	XM_016847390.1
+XM_016854754.1|	PREDICTED: Gossypium hirsutum uncharacterized LOC107924353 (LOC107924353), mRNA				231			231	100%	2e-57	98%	XM_016854754.1
+XM_016853604.1|	PREDICTED: Gossypium hirsutum uncharacterized LOC107923396 (LOC107923396), mRNA				231			231	100%	2e-57	98%	XM_016853604.1
+
+
